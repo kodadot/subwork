@@ -1,3 +1,3 @@
 ## CreamCake - Kremsnita Index 
 
-Are here for real
+Check out kremsnita-rating 🙃
