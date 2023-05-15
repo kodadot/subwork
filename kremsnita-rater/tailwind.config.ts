@@ -8,6 +8,28 @@ export default {
       fontFamily: {
         primary: ['Inter', ...defaultTheme.fontFamily.sans],
       },
+      spacing: {
+        '270': '270px',
+        '56': '56px',
+        '708': '708px',
+        '16': '16px',
+      },
+      borderRadius: {
+        '16': '16px',
+      },
+      fontSize: {
+        '14': '14px',
+      },
+      lineHeight: {
+        '24': '24px',
+      },
+      borderWidth: {
+        '1': '1px',
+      },
+      rotate: {
+        '180': '180deg',
+      },
+  
       colors: {
         primary: {
           // Customize it on globals.css :root

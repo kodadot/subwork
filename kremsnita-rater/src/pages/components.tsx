@@ -22,6 +22,7 @@ import UnstyledLink from '@/components/links/UnstyledLink';
 import NextImage from '@/components/NextImage';
 import Seo from '@/components/Seo';
 import Skeleton from '@/components/Skeleton';
+import Button2 from '@/components/buttons/Button2';
 
 type Color = (typeof colorList)[number];
 
@@ -65,6 +66,8 @@ export default function ComponentsPage() {
               </Button>
               {/* <Button onClick={randomize}>Randomize CSS Variable</Button> */}
             </div>
+
+            <Button2 />
 
             <ol className='mt-8 space-y-6'>
               <li className='space-y-2'>
