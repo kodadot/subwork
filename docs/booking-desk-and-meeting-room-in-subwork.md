@@ -42,5 +42,6 @@ Incoming guests
 | --- | --- | --- | --- |
 | yangwao | [@yangwao](https://t.me/@yangwao) | Since June 2022 | 1 | 
 | lukevi | n/a | June 2, 2023 | 1 | 
+| Frank Dierolf | FrankBevr | 7.8.28 | 1 |
 
 
