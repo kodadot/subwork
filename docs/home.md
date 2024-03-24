@@ -24,7 +24,7 @@ head:
 
 ![lake bled](pics/subwork_hero.png)
 
-> co-work space by Substrate Builders from **Polkadot inviting web3 builders.**
+> co-work space by Koda Builders from **inviting web3 builders.**
 
 👨‍🏭 who we are?
 ---
@@ -59,8 +59,8 @@ head:
   - 11 co-workers in May ‘23
   - 70 co-workers summer '23
 - daily guests coming from cities like _Zurich, Singapore, Berlin, Prague, Vienna, Zagreb, Copenhagen, Milan_ and many more
-- want to visit us? 
-  - [join our Telegram group, you are welcome!](./contact.md)
+- coming to visit us?
+  - [join our Telegram group](./contact.md)
 
 ![rent_venue_bled_subwork](pics/subwork_venue.png)
 > SubWork Spring '23, merchandise shop

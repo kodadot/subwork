@@ -53,11 +53,11 @@ premium objects in space
 
 ### **basic gym equipment for your morning workout**
   - We feel sporty everyday. To keep up your fast development pace, we will help you to build athletic mentality while staying at SubWork.
-  - dumbbells - two times 5kg & two times 10kg
+  - dumbbells - 2x5kg, 2x10kg & 2x15kg
   - kettlebells - 6kg, 12kg and 20kg
   - [multi-functional workout bench - TriaTrainer](https://www.nohrd.com/us/triatrainer/) to train your abdominal muscles, your back and glute.
   - [WaterRower Rowing Machine](https://www.nohrd.com/us/waterrower-performance/) - water rower with precise rowing data using SmartRow
-  -  pull-up bar 
+  - pull-up bar 
   - [detailed list of gym equipment in Bled, SubWork](./basic-gym-equipment-in-coworking-space-subwork.md)
 
 ![subwork_rowing](pics/subwork_rowing.jpg)

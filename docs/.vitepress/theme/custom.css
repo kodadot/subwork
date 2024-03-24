@@ -12,5 +12,6 @@
 :root {
   --vp-c-brand: #42ba96;
   --vp-c-brand-light: #42ba96;
-  --vp-font-family-base: 'Raleway'
+  --vp-font-family-base: 'Raleway';
+  /* --vp-font-size: 20px; */
 }

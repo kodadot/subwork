@@ -3,7 +3,7 @@
 ![karawanke_mountains](pics/karawanke_mountains.png)
 
 - Bled has superior **air-quality and nature equanimity** with lots of hike opportunities close to mountains around. Existing in nature helps you to **faster recharge and recover** your mental wellbeing, especially after exhaustive hackathons and conferences.
-- It's **not overcrowded place to live**, it's silent and calm, Bled is small village with approximately 2000 citizens.
+- It's **not overcrowded place to live**, it's silent and calm, Bled is small village with approximately 5000 citizens.
 - lot of options of [sport activities to do](./sports-activities-around-bled.md) to grow your body and soul.
 - Bled has amazing medieval [history](https://en.wikipedia.org/wiki/Bled), which we highly reccomend to read.
 - [yangwao](https://twitter.com/yangwao) been living in Bled since October 2021 and found it pretty well balanced place for wellbeing, with close reach to Ljubljana, Austrian Mountains, Italian Dolomites and sea side of Croatian-Italian Istrija.
@@ -12,7 +12,7 @@
 
 First SubWork citizen
 ---
-- [yangwao](https://twitter.com/yangwao) has decided during early lockdown periods to relocate, where it's calm, beautiful nature outlook. On top of criteria been for affordable life to cater needs of wellbeing. Pursuing **superior air-quality in Julian Alps**, over to **[2800 annual sun hours](https://weatherandclimate.co.uk/slovenia/lake-bled-4044834/)**, guaranted great mood even during winter which after experiencing cloudless winter **it was go-to place** and _he prefered to stick with mountain rather seaside_. Hospitality of local German-Slavics offered best from both, high morale and quality of delivery food and products. With close access to capital Ljubljana under 40mins, **30mins to international airport**, under 90mins to seaside is amazing choice place to be. Scenic place Bled offeres aesthetics with lake, church on Island in the middle and rock with medieval castle on the top with background of Karawanke two thousand high mountain top having snow even till late spring. Meanwhile thanks living in Bled, he has managed in 6 weeks to loose 12 kgs.
+- [x/yangwao](https://twitter.com/yangwao),[farcaster/yangwao](https://warpcast.com/yangwao) has decided during early lockdown periods to relocate, where it's calm, beautiful nature outlook. On top of criteria been for affordable life to cater needs of wellbeing. Pursuing **superior air-quality in Julian Alps**, over to **[2880 annual sun hours](https://weatherandclimate.co.uk/slovenia/lake-bled-4044834/)**, guaranted great mood even during winter which after experiencing cloudless winter **it was go-to place** and _he prefered to stick with mountain rather seaside_. Hospitality of local German-Slavics offered best from both, high morale and quality of delivery food and products. With close access to capital Ljubljana under 40mins, **30mins to international airport**, under 90mins to seaside is amazing choice place to be. Scenic place Bled offeres aesthetics with lake, church on Island in the middle and rock with medieval castle on the top with background of Karawanke two thousand high mountain top having snow even till late spring. Meanwhile thanks living in Bled, he has managed in 6 weeks to loose 12 kgs.
 
 ![straza_riklijev_vrh](./pics/straza_riklijev_vrh.png)
 
@@ -57,3 +57,14 @@ Have you heard about [The Network State](https://thenetworkstate.com/) right? It
 Bled is most expensive part of Slovenia
 ---
 Yes, we are pretty aware of this and we believe that price range filters out noise people. It's sort of economical mechanism to filter out valuable talent from noise. We believe that **space should be dedicated for grinders and those who want to deliver on day one.** In same fashion we help talents to bloom through [our SubWork Fellowship program](./subwork-fellowship.md), if they can't afford to come. Same apply if you are coming from various under represented minority.
+
+Air quality
+---
+Air quality around Bled & Bohinj are one of more cleanest in surrounding area. Spending time in clean air is healthy for people with respiratory issues. You can check real time numbers on following sites.
+[Air Quality in area by Google](https://support.google.com/maps/answer/11270845), [Air quality by IQAir](https://www.iqair.com/gb/slovenia), [Air quality by aqicn](https://aqicn.org/map/slovenia/), [Air quality y aqi.in](https://www.aqi.in/dashboard/slovenia)
+
+Tourism and expansion
+---
+Small village with 5k citizens scales up over seasson [up to 383k visits (2022).](https://www.bled.si/en/information/business-pages/statistics/). Slovenia itself is performing well on tourism, [tourism report for 2023](https://www.slovenia.info/en/business/research-and-analysis/tourism-in-numbers)
+
+> The year 2023 was the most successful year for Slovenian tourism so far. We recorded 16.13 million overnight stays, which is 2 percent more than in 2019 and 3.5 percent more than in 2022. We realized 6.19 million arrivals, which is almost 6 percent rise compared to 2022 and only 0.6 percent drop compared to 2019. At the same time, we kept the average length of stay at the level of 2019, despite the trend of shorter breaks during the year.

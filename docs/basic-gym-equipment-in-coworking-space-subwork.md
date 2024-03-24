@@ -12,7 +12,7 @@ Why it's important for us to have gym at coworking space?
 List of gym equipment
 ---
 - kettlebells - 6kg, 12kg and 20kg
-- dumbbells - two times 5kg & two times 10kg
+- dumbbells - 2x5kg, 2x10kg, 2x15kg
 - [multi-functional workout bench - TriaTrainer](https://www.nohrd.com/us/triatrainer/) to train your abdominal muscles, your back and glute.
 - [water rower](https://www.nohrd.com/us/waterrower-performance/) - with precise rowing data
 - yoga mat

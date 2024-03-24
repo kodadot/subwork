@@ -30,11 +30,12 @@ Reach out to SubWork before your visit 🤙
 ---
 
 - [/subwork @ Farcaster](https://warpcast.com/~/channel/subwork)
-- [twiter.com/@SubWorkBled](https://twitter.com/subworkbled)
-- [our upcoming community meetups](https://www.meetup.com/subwork/)
-- Contact us and book your stay.
+- [x.com/@SubWorkBled](https://twitter.com/subworkbled)
+- [upcoming community meetups](https://www.meetup.com/subwork/)
+
 
 ![subwork_minting](pics/subwork_geisha.png)
+> Contact us and book your stay.
 
 📍 Location
 ---

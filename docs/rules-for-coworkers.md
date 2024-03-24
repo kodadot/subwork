@@ -13,6 +13,7 @@ toilet room
 We propose **3 minutes max rule** and _best no phone_ 😅. 
 WiFi works flawlessly outside of toilet and you may blocking someone who want to go on toilet for urge reason 😉
 
+
 rule of thumb 👍
 ---
 having call?
@@ -42,7 +43,7 @@ Our space is limited and as you are taking great time with team, we recommend yo
 
 deep work hours window
 --- 
-Is usually between 10am-3pm. 
+Is usually between 10am-4pm. 
 
 want to shower?
 ---
