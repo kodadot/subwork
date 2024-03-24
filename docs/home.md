@@ -14,7 +14,7 @@ head:
       content: https://subwork.xyz
   - - meta
     - property: og:description
-      content: Beautiful coworking space in nature of Julian Alps in Bled, Slovenia
+      content: Beautiful coworking space in the nature of Julian Alps in Bled, Slovenia
   - - meta
     - name: twitter:card
       content: summary_large_image
@@ -28,41 +28,39 @@ head:
 
 👨‍🏭 who we are?
 ---
-
--  we are **power builders from the Substrate ecosystem** - [KodaDot](https://twitter.com/kodadot)
+-  We are **power builders with over 130 contributors** - [KodaDot - Generative Art Marketplace](https://twitter.com/kodadot)
    - [**top1 dapp in Polkadot** by Github Metrics](https://github.com/topics/polkadot)
-- we always wanted to have **space in nature away from everything.** Where others could come over to **re-charge and build their dream in peace** with like-minded athletic achievers.
-- we have focus on **web3 teams**
+- We always wanted to have **space in nature away from everything**, where others could come over to **re-charge and build their dream in peace** with like-minded athletic achievers.
+- We have focused on **web3** teams**
 - [📖 Learn more who we are](./who-we-are.md)
 
 
 ![bled_straza](pics/bled_from_straza.png)
 > view from hill Straza, which is 200m from SubWork
 
-🤔 why we are at Bled?
+🤔 why are we at Bled?
 ---
 
 - 🏃‍♂️ A morning workout in nature does wonders with your mind & body.
-- 🚴 Beautiful sceneries outside of capital city, which creates mind serenity.
-- 💨 Come to realise your achievement and render your dream.
--  ☀️ Bled has average [annual amount of 2455 sunshine hours](https://en.climate-data.org/europe/slovenia/bled/bled-52121/),
-   -  guarantee your daily mood even in winter
-- [📖 Learn why Bled is amazing place for your productivity](./why-did-we-choose-bled.md)
+- 🚴 Beautiful scenery outside of the capital city, which creates mind serenity.
+- 💨 Come to realise your achievement and fulfil your dream.
+-  ☀️ Bled has an average [annual amount of 2880 sunshine hours](https://weatherandclimate.co.uk/slovenia/lake-bled-4044834/),
+   -  guaranteeing your daily mood even in winter
+- [📖 Learn why Bled is an amazing place for your productivity](./why-did-we-choose-bled.md)
 
 ![subwork_colddrip](pics/subwork_colddrip.jpg)
 
-👩‍💻 who I can meet in space?
+👩‍💻 who can I meet in space?
 ---
 
 - [who is daily inside SubWork?](./family-members-in-subwork.md)
 - daily amounts of coworkers in SubWork
   - 9 co-workers in December ‘22
   - 11 co-workers in May ‘23
+  - 70 co-workers summer '23
 - daily guests coming from cities like _Zurich, Singapore, Berlin, Prague, Vienna, Zagreb, Copenhagen, Milan_ and many more
-- want to pay us a visit ? 
+- want to visit us? 
   - [join our Telegram group, you are welcome!](./contact.md)
-
-
 
 ![rent_venue_bled_subwork](pics/subwork_venue.png)
 > SubWork Spring '23, merchandise shop
@@ -70,41 +68,38 @@ head:
 👔 conference capacities
 ---
 
-- Do you plan to organize bigger conference in meetup with your team? 
+- Do you plan to organise a more significant conference or meetup with your team? 
 - [We can help with that!](./company-retreat.md)
 
-🧘 subwork abilities
+🧘 Our capabilities
 ---
-- We can comfortable accommodate 30 builders on daily basis witn comfortable seating
-- [Host local tech, crypto and ai meetups, technological and art events](./rent-subwork-venue-in-bled.md)
-- [We can help you with bigger teams retreats](./company-retreat.md)
+- We can comfortably accommodate 30 builders daily with comfortable seating
+- [Host local tech, crypto and AI meetups, technological and art events](./rent-subwork-venue-in-bled.md)
+- [We can help you with more prominent team retreats](./company-retreat.md)
 
 ![subwork_hacker](./pics/subwork_hacker_zoom.png)
 
 
 🏞  surroundings
 ---
+Are you curious about [how it looks around Bled?](./surroundings.md)
 
-- Are you curious [how does it look around Bled?](./surroundings.md)
-
-🏋️ you are athletic soul
+🏋️ you are an athletic soul
 ---
 
-- Have a peak on [sport activities you can do around SubWork](./sports-activities-around-bled.md)
+- Have a peek at [sports activities](./sports-activities-around-bled.md) you can do around SubWork
 
 ![lake_bohinj](pics/lake_bohinj_canoes.png)
 > Canoes at Lake Bohinj
 
 🏛 museum
 ---
-
-We really care about your education about local place
+We care about your education about local place
 
 - [Arnold Rikli](https://en.wikipedia.org/wiki/Arnold_Rikli)
 - [Bled](https://en.wikipedia.org/wiki/Bled)
 
-options for long-term stay 🏡 
+Options for long-term stay 🏡 
 ---
-
-- we can give you recommendation where to look for [long-term stay](/long-term-stay-in-bled.md)
-- want [to make coliving? Let's go!](./coliving-in-bled.md)
+- We can give you recommendations on where to look for a [long-term stay](/long-term-stay-in-bled.md)
+- Do you [want to do coliving?](./coliving-in-bled.md) Let's go!

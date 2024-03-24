@@ -20,18 +20,19 @@ head:
       content: summary_large_image
 ---
 
-Reach out to SubWork for your visit 🤙
+Reach out to SubWork before your visit 🤙
 ---
-- Are you curious? Come to ask a questions!
+- Are you curious? Come to ask!
 - [**Telegram - SubWork Bled**](https://t.me/+VoZsr7MEds84ZjQ0) 
-  - join over 200 members in our group chat
+  > join over 200 members in our group chat
 
-📥 Follow & Subscribe
+📥  Subscribe
 ---
 
+- [/subwork @ Farcaster](https://warpcast.com/~/channel/subwork)
 - [twiter.com/@SubWorkBled](https://twitter.com/subworkbled)
 - [our upcoming community meetups](https://www.meetup.com/subwork/)
-- Feel free to reach out and book your visit & stay
+- Contact us and book your stay.
 
 ![subwork_minting](pics/subwork_geisha.png)
 
@@ -43,7 +44,7 @@ Reach out to SubWork for your visit 🤙
 
 ⭐️ Leave Us Review
 ---
-Have you been to our place recently? We would love to have your five-star review! Please share your review to inform others about this fantastic coworking in nature.
+Have you been to our place recently? We would love to have your five-star review! Please **share your review** to inform others about this fantastic coworking in nature.
 
 - [Five-star review on Google Maps](https://g.page/r/CWs7EEKFN9-zEBM/review)
 - [Coworker Review](https://www.coworker.com/slovenia/bled/subwork)

@@ -126,7 +126,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'amenities', link: '/amenities-in-coworking-space' },
-          { text: 'book coworking space', link: '/book-coworking-subwork'},
+          { text: 'book coworking space', link: '/book-coworking-space-subwork'},
           { text: 'company retreat', link: '/company-retreat' },
           { text: 'family members', link: '/family-members-in-subwork' },
           { text: 'meeting rooms', link: '/book-meeting-room-bled' },
@@ -157,7 +157,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'first time in Subwork', link: '/first-time-in-subwork' },
-          { text: 'booking desk and meeting room', link: '/booking-desk-and-meeting-room-in-subwork' },
+          { text: 'book subwork', link: '/book-subwork' },
           { text: 'governance', link: '/rules-for-coworkers'},
         ]
       },

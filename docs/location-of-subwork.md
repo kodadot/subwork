@@ -25,8 +25,8 @@ head:
 
 ![bled_winter](./pics/bled_winter.png)
 
-Bled is located _40 mins from capital of Slovenia, Ljubljana_. 
-Currently reccomended airports for international flights are
+Bled is located _40 minutes from the capital of Slovenia, Ljubljana_. 
+Currently, recommended airports for international flights are
 - 🇸🇮 Ljubljana, Slovenia 
 - 🇭🇷 Zagreb, Croatia 
 - 🇮🇹 Venice, Italy 
@@ -40,10 +40,10 @@ Currently reccomended airports for international flights are
 
 ![location-of-subwork](pics/subwork_location.png)
 
-- The location is at [Bled, in the north part of Slovenia](https://goo.gl/maps/KvDbeJwVGxQM5sBS9), south eastern Europe.
+- The location is at [Bled, in the northern part of [Slovenia](https://goo.gl/maps/KvDbeJwVGxQM5sBS9), in central Europe.
 - 📸 [How does Bled looks like?](https://www.google.com/search?q=bled+slovenia+beautiful+photos)
 
-🚗  close proximity to
+🚗  Proximities
 ---
 
 - 🏞  [Lake Bled](https://en.wikipedia.org/wiki/Lake_Bled), where co-work is based
@@ -54,12 +54,12 @@ Currently reccomended airports for international flights are
 - 🏙 [Ljubljana](https://en.wikipedia.org/wiki/Ljubljana) — capital of 🇸🇮 — 40 mins
 ---
 
-- 🌅 [Piran](https://en.wikipedia.org/wiki/Piran) — sea side, 90 mins
-- 🌅 [Portorose](https://en.wikipedia.org/wiki/Portoro%C5%BE) — sea side, 90 mins
+- 🌅 [Piran](https://en.wikipedia.org/wiki/Piran) — seaside, 90 mins
+- 🌅 [Portorose](https://en.wikipedia.org/wiki/Portoro%C5%BE) — seaside, 90 mins
 - 🇭🇷 [Opatija](https://en.wikipedia.org/wiki/Opatija) — sea side, 120 min
 - 🇭🇷 [Zagreb](https://en.wikipedia.org/wiki/Zagreb) — 120 min
-- 🇭🇷 [Rovinj](https://en.wikipedia.org/wiki/Rovinj) — sea side, 140 min 
-- 🇭🇷 [Pula](https://en.wikipedia.org/wiki/Pula) — sea side, 180 min
+- 🇭🇷 [Rovinj](https://en.wikipedia.org/wiki/Rovinj) — seaside, 140 min 
+- 🇭🇷 [Pula](https://en.wikipedia.org/wiki/Pula) — seaside, 180 min
 - 🇦🇹 [Salzburg](https://en.wikipedia.org/wiki/Salzburg) — 150 min 
 - 🇮🇹 [Venice](https://en.wikipedia.org/wiki/Venice) — 180 min
 - 🇩🇪 [Munich](https://en.wikipedia.org/wiki/Munich) — 240 min 
@@ -68,7 +68,7 @@ Currently reccomended airports for international flights are
 
 🚶‍♀️ how to get to the SubWork?
 ---
-- [Check our transporation page](./transportation-to-subwork-bled-slovenia.md)
+- [Check our transportation page](./transportation-to-subwork-bled-slovenia.md)
 - [Are you coming by car?](./coming-by-car-to-subwork-bled.md) 
 
 
@@ -80,15 +80,15 @@ Currently reccomended airports for international flights are
 🚪 entrance to SubWork
 ---
 
-- We are located in Trgovski Center Bled at upper floor.
-- Entrance is next to Kavarna Apropo, close to Mercator and Kompass.
-- It's closer from parking on the side
+- We are located in Trgovski Center Bled on an upper floor.
+- The entrance is next to Kavarna Apropo, close to Mercator and Kompass.
+- It's closer to parking on the side
 
 ![subwork_entrance](pics/subwork_entrance.png)
 
 future of new air connections
 ---
-Slovenia goverment is running [subsidiary of new routes to major european capitals, with 16.8M€](https://www.exyuaviation.com/2023/03/slovenia-to-outline-subsidised-air.html)
+Slovenia government is running [subsidiary of new routes to major european capitals, with 16.8M€](https://www.exyuaviation.com/2023/03/slovenia-to-outline-subsidised-air.html)
 
 > Ten routes have been listed as of utmost priority. The first group are larger hubs that can provide onward connectivity. They include: Vienna, Copenhagen, Athens, Madrid, Amsterdam and Helsinki. The second group of destinations are those aimed at point-to-point passengers. They include: Charleroi, Skopje, Prague and Berlin. The third group of destinations, marked as “supplementary”, will only be subsidised if there are enough funds left following the first public call aimed at the abovementioned ten priority routes. The supplementary destinations include: Rome Fiumicino, Stockholm, Oslo, Barcelona, Lisbon, Pristina and Paris Orly. 
 

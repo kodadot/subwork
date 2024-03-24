@@ -43,4 +43,13 @@ Respect fair usage policy and [have a read of our rules of space](./rules-for-co
 
 Want to come and no-one is around?
 ---
-We travel too and we are more than happy make this space autonomous. To offer space as public good for anyone coming, it needs to make sustainable returns and we can manage to pay rent. If you can deposit us ahead small amount like 100e we are happy to share access with you. Otherwise there is always members on site.
+We travel too and we are more than happy make this family space autonomous. To offer space as public good for anyone coming, it needs to make sustainable returns and we can manage to pay rent. If you can deposit us ahead small amount like 300e, we are happy to share access with you. Otherwise there is always members on site.
+- [Book SubWork coworking space remotely](./book-coworking-space-subwork.md)
+
+![img](./pics/subwork_doorlock.png)
+
+Door Lock
+---
+Once you've got your code, you can use it to open doors. Dial numbers and it should open automatically.
+
+When you are leaving space, you can unlock doors by tap once on middle button. Door lock should automatically open. When it is in auto lock mode, usually it automatically locks when you leave. Just in case you can press triangle button on dial and it will lock the doors.

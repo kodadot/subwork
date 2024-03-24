@@ -39,7 +39,6 @@ flex desk
 fix desk
 ---
 
-
 - Early bird, fresh startup founder with raised money need place to focus? Having revenue from your AI GPT startup? We are your place number one in Slovenia to have right peer group help you 10x your revenue.
 - Own Plant on your table
 - Option to have 160cm desk if available in space
@@ -58,8 +57,9 @@ In SubWork we offer three meeting rooms with privacy for your work, collaboratio
 rent venue for your event
 ---
 
-- Want to rent SubWork? Let us know, price start at 500€/day. 
+- Want to rent SubWork? Let us know, price start at 900€/day. 
 - Are you NGO, non-profit or students organization? We can offer you friendly discount.
+- Renting for longer period, we can give you discount.
 - [📖 Learn more](./rent-subwork-venue-in-bled.md)
 
 ![subwork_rent_venue](pics/subwork_venue.png)
@@ -89,6 +89,6 @@ pricing for SubWork coworking passes
 | Fix Desk | 300 
 | Meeting Room Kusama |  50/h 
 | Meeting Room Polkadot | 50/h
-| Rent Venue day | 500
-| Rent Venue evening | 300/3h
-| Private Office | 1200/mo
+| Rent Venue day | 900/day
+| Rent Venue evening | 400/3h
+| Private Office | 1500/mo
