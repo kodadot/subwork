@@ -28,6 +28,12 @@ Join Telegram group
 ---
 Once you have made your deposit, head to our [Telegram Group](https://t.me/+VoZsr7MEds84ZjQ0) and share the identification of your payment, either your email or receipt id you've received.
 
-Once you've got door code
+Once you've got the door code
 ---
 Staff usually shares a handful information about space. Just in case [you can review most of information you might need during your stay at SubWork](./first-time-in-subwork.md)
+
+Pay for daily stay
+---
+In case you haven't paid at the site on the terminal, you can settle your payments for daily coworking afterwards.
+
+[Settle daily coworking dues](https://book.stripe.com/4gw4ic9cye3pbYs145)
