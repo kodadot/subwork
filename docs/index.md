@@ -13,19 +13,20 @@ hero:
       text: community events
       link: /events-in-subwork
     - theme: alt
+      text: farcaster
+      link: https://warpcast.com/~/channel/subwork
+    - theme: alt
       text: mountain peaks
       link: /mountain-peaks-and-alpine-cabins
     - theme: brand
       text: telegram
       link: https://t.me/+-fURMbVHvB0wNTdk 
-    - theme: alt
-      text: farcaster
-      link: https://warpcast.com/~/channel/subwork
+
 
 features:
   - icon: 🏔️
     title: Slovenia, crypto friendly destination in Europe
-    details: It's home of Apillon, BlockAnalitica, Bitstamp, GoCrypto PoS, Iconomi, Oasis, OriginTrail, Punk Domains and many more.
+    details: It's home of Apillon, BlockAnalitica, Bitstamp, Ethereum LJ, DegenL3, GoCrypto PoS, Oasis and many more.
     link: /why-did-we-choose-bled
     linkText: why Slovenia?
   - icon: 🏞️

@@ -24,7 +24,11 @@ head:
 
 ![lake bled](pics/subwork_hero.png)
 
-> co-work space by Koda Builders from **inviting web3 builders.**
+> co-work space by Koda Builders **inviting web3 builders.**
+
+- [Book SubWork](./book-subwork.md)
+- [Membership pricing](./membership.md)
+
 
 👨‍🏭 who we are?
 ---

@@ -11,6 +11,8 @@ We will create your temporary access remotely. Mind it needs to be done a bit ah
 **We recommend at least 24 hours.**
 Sometimes, we can respond in under one hour if you are lucky.
 
+- [Membership pricing at SubWork](./membership.md)
+
 Brief process
 ---
 1. Pay returnable deposit
