@@ -7,6 +7,13 @@ We've organized numerous events in SubWork and in feature we plan to do so.
 
 From past events like [opening christmas party](https://www.meetup.com/subwork/events/289925251/), [Polkadot Bled mini conference](https://www.meetup.com/subwork/events/292274713/) or casual [Friday's Brunch at SubWork](https://www.meetup.com/subwork/events/290849358/), we plan to make end of summer L2 hackathon and shoot few events during summer as various hosts are coming to our space. Everything depends on availibility of speakers and their will.
 
+## Farcaster Meetup Slovenia
+
+We've hosted on [Farcaster Slovenia zero meetup](https://warpcast.com/yangwao/0x7134089f) as family brunch with great attendance.
+
+![farcaster_meetup_slovenia](pics/subwork_farcaster_meetup.webp)
+
+
 - [polkadotbled.xyz](https://polkadotbled.xyz)
 - L2 hackathon
 

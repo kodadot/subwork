@@ -47,6 +47,12 @@ fix desk
 
 ![subwork_fixdesk](pics/subwork_fixdesk.jpeg)
 
+coming as group for team offsite?
+---
+we know that for team retreats it's has doable effect on team morale to change working environment and we are happy accomodate your need depends on our operating capacity. We are always happy to give you group discount on team, ask on our Telegram chat.
+
+![farcaster_meetup_slovenia](pics/subwork_farcaster_meetup.webp)
+
 meeting rooms
 ---
 In SubWork, we offer three meeting rooms with privacy for your work, collaboration, and acoustic insulation.
@@ -71,7 +77,6 @@ However we love untraceable cash, but we don't hold it in space, and we can't gi
 
 [📖 Learn how to pay for membership](./payment-options.md)
 
-
 invoicing
 ---
 In terms of invoicing, we can issue you an invoice from our Slovenian company, and you can put it as an expense in your accounting. This is only available for fixed desks and meeting rooms from up to 6 hours.
@@ -85,10 +90,13 @@ pricing for SubWork coworking passes
 | Day pass | 20 
 | Week pass | 80 
 | Two weeks pass | 140 
-| Flex Desk | 250 
-| Fix Desk | 350 
-| Meeting Room Kusama |  50/h 
-| Meeting Room Polkadot | 50/h
+| Flex Desk | 250/mo 
+| Fix Desk | 350/mo
+| Meeting Room L2 | 50/h 
+| Meeting Room L1 | 50/h
 | Rent Venue day | 900/day
 | Rent Venue evening | 400/3h
 | Private Office | 1500/mo
+| Sponsorship Tier C | 3k/mo
+| Sponsorship Tier B | 5k/mo
+| Sponsorship Tier A | 10k/mo 

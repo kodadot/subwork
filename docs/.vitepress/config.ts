@@ -169,6 +169,7 @@ export default defineConfig({
           { text: 'contribute', link: '/contribute-and-improve-subwork' },
           { text: 'events', link: '/events-in-subwork' },
           { text: 'fellowship', link: '/subwork-fellowship' },
+          { text: 'slovenian products', link: '/famous-slovenian-products' },
           { text: 'gym equipment', link: '/basic-gym-equipment-in-coworking-space-subwork'},
           { text: 'partner with SubWork', link: '/partner-with-coworking-space-subwork'},
           { text: 'specialty coffee gear', link: '/specialty-coffee-in-bled'},

@@ -55,5 +55,5 @@ features:
 <br>
 <br>
 <p align="center">
-  <img src="/why_subwork_grey.png" style="max-width:1150px;width:100%" />
+  <img src="/subwork_farcaster_meetup.webp" style="max-width:1150px;width:100%" />
 </p>
