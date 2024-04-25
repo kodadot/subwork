@@ -65,3 +65,12 @@ Slovenia, Europe
 Company No.: 8976732000
 VAT: SI83616110
 ```
+
+```
+Genesis Art d.o.o.
+Genesis Art, digitalizacija umetnosti, d.o.o.
+Ljubljanska cesta 4
+4260 Bled
+Company No.: 9647287000
+VAT: SI72862980
+```
