@@ -1,6 +1,6 @@
 # First time in SubWork
 
-![subwork_corner_hacker](pics/subwork_corner_hacker.png)
+![subwork_corner_hacker](pics/subwork_corner_hacker.png.webp)
 
 You are already in our coworking space and want to get more familiar with stuff. This is quick brief when no-one is around available help you in person as they might be busy or enjoying sports in nature.
 
@@ -46,7 +46,7 @@ Want to come and no-one is around?
 We travel too and we are more than happy make this family space autonomous. To offer space as public good for anyone coming, it needs to make sustainable returns and we can manage to pay rent. If you can deposit us ahead small amount like 300e, we are happy to share access with you. Otherwise there is always members on site.
 - [Book SubWork coworking space remotely](./book-coworking-space-subwork.md)
 
-![img](./pics/subwork_doorlock.png)
+![img](./pics/subwork_doorlock.png.webp)
 
 Door Lock
 ---

@@ -1,7 +1,7 @@
 Partner with SubWork
 ---
 
-![sports_vintgar](./pics/sports_vintgar_jump.png)
+![sports_vintgar](./pics/sports_vintgar_jump.png.webp)
 
 We have limited offer for first three coworkings in close area to partner with us to make their coworking membership offer much differentated from others coworking
 

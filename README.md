@@ -10,7 +10,7 @@ We appreciate it if you follow us and **spread the word**!
 - [Telegram](https://t.me/+VoZsr7MEds84ZjQ0)
 - [Meetup](https://meetup.com/subwork)
 
-![SubWork](docs/public/subwork_header_jungle_description.png)
+![SubWork](docs/public/subwork_header_jungle_description.png.webp)
 
 Getting started
 ---

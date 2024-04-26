@@ -8,7 +8,7 @@ head:
       content: SubWork - coworking in nature
   - - meta
     - property: og:image
-      content: https://subwork.xyz/subwork_header_jungle_description.png
+      content: https://subwork.xyz/subwork_header_jungle_description.png.webp
   - - meta
     - property: og:url
       content: https://subwork.xyz
@@ -22,7 +22,7 @@ head:
 
 # crypto coworking space in Bled, Slovenia <Badge type="warning" text="beta" />
 
-![lake bled](pics/subwork_hero.png)
+![lake bled](pics/subwork_hero.png.webp.webp)
 
 > co-work space by Koda Builders **inviting web3 builders.**
 
@@ -39,7 +39,7 @@ head:
 - [📖 Learn more who we are](./who-we-are.md)
 
 
-![bled_straza](pics/bled_from_straza.png)
+![bled_straza](pics/bled_from_straza.png.webp.webp)
 > view from hill Straza, which is 200m from SubWork
 
 🤔 why are we at Bled?
@@ -52,7 +52,7 @@ head:
    -  guaranteeing your daily mood even in winter
 - [📖 Learn why Bled is an amazing place for your productivity](./why-did-we-choose-bled.md)
 
-![subwork_colddrip](pics/subwork_colddrip.jpg)
+![subwork_colddrip](pics/subwork_colddrip.jpg.webp)
 
 👩‍💻 who can I meet in space?
 ---
@@ -66,7 +66,7 @@ head:
 - coming to visit us?
   - [join our Telegram group](./contact.md)
 
-![rent_venue_bled_subwork](pics/subwork_venue.png)
+![rent_venue_bled_subwork](pics/subwork_venue.png.webp.webp)
 > SubWork Spring '23, merchandise shop
 
 👔 conference capacities
@@ -81,7 +81,7 @@ head:
 - [Host local tech, crypto and AI meetups, technological and art events](./rent-subwork-venue-in-bled.md)
 - [We can help you with more prominent team retreats](./company-retreat.md)
 
-![subwork_hacker](./pics/subwork_hacker_zoom.png)
+![subwork_hacker](./pics/subwork_hacker_zoom.png.webp.webp)
 
 
 🏞  surroundings
@@ -93,7 +93,7 @@ Are you curious about [how it looks around Bled?](./surroundings.md)
 
 - Have a peek at [sports activities](./sports-activities-around-bled.md) you can do around SubWork
 
-![lake_bohinj](pics/lake_bohinj_canoes.png)
+![lake_bohinj](pics/lake_bohinj_canoes.png.webp.webp)
 > Canoes at Lake Bohinj
 
 🏛 museum

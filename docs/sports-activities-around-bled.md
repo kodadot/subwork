@@ -1,6 +1,6 @@
 # Sport Activities around Bled
 
-![bled_downhill_bike](pics/sports_downhill.png)
+![bled_downhill_bike](pics/sports_downhill.png.webp)
 
 *   Prior moving to Bled was desire to find environment, where we can do sport and recreate our wellbeing in nature **in least artificial way whole year**
 
@@ -21,7 +21,7 @@ Seems there are few great options
 *   Cross country skiing ⛷
 
 
-![bled_sports_hike](pics/sports_hike.png)
+![bled_sports_hike](pics/sports_hike.png.webp)
 
 Mountains
 ---
@@ -36,7 +36,7 @@ Mountains
 - **Paragliding**: Glide over the mountains for a unique and thrilling perspective. 🪂🏞️
 - **Golf**: Just a few kilometers from Lake Bled, there's a beautiful golf course waiting for enthusiasts of the sport. ⛳🏌️‍♀️
 
-![bled_sports_raft](pics/sports_raft.png)
+![bled_sports_raft](pics/sports_raft.png.webp)
 
 Water Sports 
 ---
@@ -48,7 +48,7 @@ Water Sports
 - **Rafting**: Team up for a thrilling white water rafting experience on the local rivers. 🌊🚣‍♂️
 - **Fishing & Fly Fishing**: Relax and enjoy the peaceful pastime of fishing at Lake Bled. 🎣🐟
 
-![bled_sports_freedive](pics/sports_freedive.png)
+![bled_sports_freedive](pics/sports_freedive.png.webp)
 
 Waterfalls
 ---
@@ -60,7 +60,7 @@ Area is rich for bigger waterfalls
 - **Boka**: Be captivated by the grandeur of the Boka waterfall. 🌊🏞️
 - **Virje**: Enjoy the serene atmosphere at the Virje waterfall. 💦🏞️
 
-![bled_viaferrata](pics/sports_viaferrata.png)
+![bled_viaferrata](pics/sports_viaferrata.png.webp)
 
 Winter Sports
 ---

@@ -1,6 +1,6 @@
 # Book your stay at Coworking SubWork
 
-![img](./pics/subwork_doorlock.png)
+![img](./pics/subwork_doorlock.png.webp)
 > our experimental cyber-receptionist
 
 We are always want to have a space more autonomous and less hassle. 

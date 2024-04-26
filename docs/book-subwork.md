@@ -1,6 +1,6 @@
 # Remote Booking SubWork coworking space
 
-![Bled village from Straza Hill](./pics/bled_from_straza.png)
+![Bled village from Straza Hill](./pics/bled_from_straza.png.webp)
 > Pay a visit our beautiful coworking space SubWork in Julian Alps in Bled, Slovenia
 
 

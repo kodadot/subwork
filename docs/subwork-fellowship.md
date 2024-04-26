@@ -2,7 +2,7 @@
 
 In the heart of the Julian Alps, a unique concept is brought to life - The SubWork Fellowship. A haven for tech enthusiasts, this hacker collective aims to foster a thriving community of like-minded individuals who are passionate about shaping the future of technology. Whether your interest lies in the newest crypto protocols or the latest LLM models for AI, the SubWork Fellowship is the perfect place for you to bring your ideas to life.
 
-![fellowship_sava](./pics/fellowship_sava.png)
+![fellowship_sava](./pics/fellowship_sava.png.webp)
 > writing this markdown at Sava river :D
 
 

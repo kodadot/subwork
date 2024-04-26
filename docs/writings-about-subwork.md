@@ -1,6 +1,6 @@
 # Writings about SubWork
 
-![subwork_writings](./pics/subwork_writings.png)
+![subwork_writings](./pics/subwork_writings.png.webp)
 
 Do you want to share experience in SubWork with others? 
 

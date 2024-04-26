@@ -6,14 +6,14 @@ We are happy to give you a first tryout [for review on Google Maps](https://g.pa
 
 If we are coworking you've been looking for. However as operating bussines _we need to cover our investments, running costs as rent and day-to-day resources_, like maintain accessible and clean space for everyone.
 
-![meeting_subwork](pics/subwork_meeting.png)
+![meeting_subwork](pics/subwork_meeting.png.webp)
 
 daypass
 ---
 - We are happy to give you first try out for first review on Google Maps to let you explore, if it's fitting coworking you've been looking for.
 - [Google Maps ⭐️ Review](https://g.page/r/CWs7EEKFN9-zEBE/review)
 
-![subwork_hacker_stand](pics/subwork_hacker_stand.png)
+![subwork_hacker_stand](pics/subwork_hacker_stand.png.webp)
 
 weekpass
 ---
@@ -23,7 +23,7 @@ Are you coming to Slovenia to enjoy your stay for sports activity, and do you ne
 - You can participate on regular breakfasts organized by members
 - 70€ / week
 
-![subwork_hacker_corner](pics/subwork_hacker_zoom.png)
+![subwork_hacker_corner](pics/subwork_hacker_zoom.png.webp)
 
 flex desk
 ---
@@ -58,7 +58,7 @@ meeting rooms
 In SubWork, we offer three meeting rooms with privacy for your work, collaboration, and acoustic insulation.
 - [📖 Learn more about meeting rooms in SubWork, Bled](./book-meeting-room-bled.md)
 
-![subwork_meeting_room_collab](pics/subwork_meeting_collab.png)
+![subwork_meeting_room_collab](pics/subwork_meeting_collab.png.webp)
 
 rent venue for your event
 ---
@@ -68,7 +68,7 @@ rent venue for your event
 - Renting for a longer period, we can give you a discount.
 - [📖 Learn more](./rent-subwork-venue-in-bled.md)
 
-![subwork_rent_venue](pics/subwork_venue.png)
+![subwork_rent_venue](pics/subwork_venue.png.webp)
 
 payment options
 ---

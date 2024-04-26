@@ -1,6 +1,6 @@
 # Coliving in Bled, near SubWork coworking space
 
-![coliving_bled](pics/coliving_bled.png)
+![coliving_bled](pics/coliving_bled.png.webp)
 
 
 Currently, we are at the capacity of one house. We recommend that you seek private deals with locals. Snap apartments through local real-estate brokers' portals

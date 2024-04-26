@@ -8,7 +8,7 @@ head:
       content: SubWork - coworking in nature
   - - meta
     - property: og:image
-      content: https://subwork.xyz/subwork_header.png
+      content: https://subwork.xyz/subwork_header.png.webp
   - - meta
     - property: og:url
       content: https://subwork.xyz
@@ -34,7 +34,7 @@ Reach out to SubWork before your visit 🤙
 - [upcoming community meetups](https://www.meetup.com/subwork/)
 
 
-![subwork_minting](pics/subwork_geisha.png)
+![subwork_minting](pics/subwork_geisha.png.webp.webp)
 > Contact us and book your stay.
 
 📍 Location

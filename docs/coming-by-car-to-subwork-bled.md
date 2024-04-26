@@ -1,6 +1,6 @@
 # Coming by car to SubWork, Bled, Slovenia
 
-![charging_car](./pics/charging_car.png)
+![charging_car](./pics/charging_car.png.webp)
 
 ## Where is the best you could park your car?
 
@@ -25,4 +25,4 @@ We are working to have few 22kw AC sockets at our parking next to SubWork for yo
 [Petrol OneCharge](https://onecharge.eu/) is mostly popular in area where you can start your charging right away with your credit card. 
 [ChargeMap](https://chargemap.com/map) is good for navigating among other charging spots around Slovenia and countries around.
 
-![chargingmap](pics/chargingmap.png)
+![chargingmap](pics/chargingmap.png.webp)

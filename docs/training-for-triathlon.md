@@ -12,7 +12,7 @@ Triglav Triathlon Bled Bohinj 2023 - 1-2/9/2023
 - [Triathlon Bled 2023](https://slovenia.info/en/things-to-do/events/5708-triathlon-bled-2023)
 - [TriSport-klub](http://trisport-klub.si/obletni-triatlon-bled-2003-2023-bo-prvi-vikend-v-septembru/)
 
-![sports_triathlon_bled](./pics/sports_triathlon.png)
+![sports_triathlon_bled](./pics/sports_triathlon.png.webp)
 
 I FEEL Slovenia CEBE Triathlon jeklenih Bohinj - 26/8/2023
 ---

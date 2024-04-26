@@ -6,7 +6,7 @@ hero:
   text: "minimum viable community in Julian Alps"
   tagline: Crypto & AI hub in most beautiful nature 
   image:  
-    src: /subwork_logo.png
+    src: /subwork_logo.png.webp
     alt: SubWork web3 jungle
   actions:
     - theme: alt
@@ -49,7 +49,7 @@ features:
 <br>
 <br>
 <p align="center">
-  <img src="/subwork_header_jungle_description.png" style="max-width:1150px;width:100%" />
+  <img src="/subwork_header_jungle_description.png.webp.webp" style="max-width:1150px;width:100%" />
 </p>
 <br>
 <br>

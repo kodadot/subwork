@@ -1,6 +1,6 @@
 # Events 📅
 
-![subwork_meetup](pics/subwork_meetup.png)
+![subwork_meetup](pics/subwork_meetup.png.webp)
 
 We've organized numerous events in SubWork and in feature we plan to do so. 
 
@@ -22,13 +22,13 @@ We've hosted on [Farcaster Slovenia zero meetup](https://warpcast.com/yangwao/0x
 [Let's subscribe to SubWoork meetup group](https://www.meetup.com/subwork/)
 
 
-![event_polkadot_miniconf](pics/event_polkadot_miniconf.png)
+![event_polkadot_miniconf](pics/event_polkadot_miniconf.png.webp)
 
 Meetups we plan to organize
 ---
 We have in line 20 speakers who would likely to come to SubWork and we just need to settle date with them. You can have [a peak on our planned meetups in SubWork](https://github.com/kodadot/subwork/issues?q=is%3Aopen+label%3Ameetup+sort%3Aupdated-desc) 
 
-![polkadot_miniconf](./pics/subwork_miniconf.png)
+![polkadot_miniconf](./pics/subwork_miniconf.png.webp)
 
 Do you want to organize event in SubWork?
 ---

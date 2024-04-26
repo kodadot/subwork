@@ -1,11 +1,11 @@
 # Amenities
 
-![subwork_familytable](./pics/subwork_familytable.png)
+![subwork_familytable](./pics/subwork_familytable.png.webp)
 > speciality coffee lovers doing daily grind
 
 type of areas we have in SubWork
 ---
-![subwork_jungle](pics/subwork_hero.png)
+![subwork_jungle](pics/subwork_hero.png.webp)
 
 > picture of premier lounge area to secure your milion $ tickets
 - space for focused work
@@ -72,18 +72,18 @@ premium objects in space
 - we reccomend you to [subscribe to our SubWork Meetup group](https://www.meetup.com/subwork/) to be informed ahead.
 - 📖 [learn more about events](./events-in-subwork.md)
 
-![subwork_crypto_meetup](pics/subwork_meetup.png)
+![subwork_crypto_meetup](pics/subwork_meetup.png.webp)
 > lot of folks on our first polkadot mini-conf
 
 ![subwork_breakfast](pics/subwork_breakfast.jpg)
 
 > we had lot of public breakfast in past with local friends
 
-![subwork_miniconf](pics/subwork_miniconf.png)
+![subwork_miniconf](pics/subwork_miniconf.png.webp)
 
 > casual wine & drinks after meeetups
 
-![event_polkadot_miniconf](pics/event_polkadot_miniconf.png)
+![event_polkadot_miniconf](pics/event_polkadot_miniconf.png.webp)
 > polkadot mini conference at bled
 
 ### flexible
@@ -97,7 +97,7 @@ premium objects in space
 - air-conditioning
   - right working temperature
 
-![espresso_tonic](pics/espresso_tonic.png)
+![espresso_tonic](pics/espresso_tonic.png.webp)
 > stash of bikes 
 
 ### drinks 

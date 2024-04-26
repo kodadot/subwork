@@ -1,6 +1,6 @@
 # 🛫 Transportation to Bled, Slovenia 🏔️
 
-![subwork_travel](./pics/subwork_travel.png)
+![subwork_travel](./pics/subwork_travel.png.webp)
 
 ## 🌍 Flights to Close Proximity Cities
 

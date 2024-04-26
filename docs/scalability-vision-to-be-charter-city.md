@@ -14,7 +14,7 @@ It is important to note that startup cities are not limited to physical location
 
 For more in-depth information and analysis on startup cities, you can explore the Startup Cities platform, which discusses the technology behind cities, analyzes changes in cost structure and performance, and provides empirical skepticism about ambitious projects. Additionally, academic databases and research papers may also provide valuable insights into the concept of startup cities and their implementation strategies.
 
-![charter_cities](./pics/charter_cities.png)
+![charter_cities](./pics/charter_cities.png.webp)
 
 
 ## Milestones

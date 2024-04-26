@@ -8,7 +8,7 @@ head:
       content: SubWork - coworking in nature
   - - meta
     - property: og:image
-      content: https://subwork.xyz/subwork_header_jungle_logo.png
+      content: https://subwork.xyz/subwork_header_jungle_logo.png.webp
   - - meta
     - property: og:url
       content: https://subwork.xyz
@@ -23,7 +23,7 @@ head:
 ## where is SubWork located?
 
 
-![bled_winter](./pics/bled_winter.png)
+![bled_winter](./pics/bled_winter.png.webp)
 
 Bled is located _40 minutes from the capital of Slovenia, Ljubljana_. 
 Currently, recommended airports for international flights are
@@ -38,7 +38,7 @@ Currently, recommended airports for international flights are
 📍 Bled, Slovenia, Europe
 ---
 
-![location-of-subwork](pics/subwork_location.png)
+![location-of-subwork](pics/subwork_location.png.webp)
 
 - The location is at [Bled, in the northern part of [Slovenia](https://goo.gl/maps/KvDbeJwVGxQM5sBS9), in central Europe.
 - 📸 [How does Bled looks like?](https://www.google.com/search?q=bled+slovenia+beautiful+photos)
@@ -84,7 +84,7 @@ Currently, recommended airports for international flights are
 - The entrance is next to Kavarna Apropo, close to Mercator and Kompass.
 - It's closer to parking on the side
 
-![subwork_entrance](pics/subwork_entrance.png)
+![subwork_entrance](pics/subwork_entrance.png.webp)
 
 future of new air connections
 ---

@@ -1,6 +1,6 @@
 # Family Members in SubWork
 
-![subwork_hacker](pics/subwork_hacker_zoom.png)
+![subwork_hacker](pics/subwork_hacker_zoom.png.webp)
 
 Current coworkers are among top class web3 startups and AI experimentators
 
@@ -21,7 +21,7 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: 'https://www.github.com/yangwao.png',
+    avatar: 'https://www.github.com/yangwao.png.webp',
     name: 'matej yangwao',
     title: 'co-founder KodaDot',
     links: [
@@ -31,7 +31,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://www.github.com/JustLuuuu.png',  
+    avatar: 'https://www.github.com/JustLuuuu.png.webp',  
     name: 'Linda',
     title: 'artists relationships at KodaDot',
     links: [
@@ -40,7 +40,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://www.github.com/vikiival.png',
+    avatar: 'https://www.github.com/vikiival.png.webp',
     name: 'viki val',
     title: 'co-founder KodaDot',
     links: [
@@ -49,7 +49,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://www.github.com/poppyseeddev.png',
+    avatar: 'https://www.github.com/poppyseeddev.png.webp',
     name: 'aurora poppyseed',
     title: 'founder rust courses & gpt projects',
     links: [
@@ -58,7 +58,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://www.github.com/vgantchev.png',
+    avatar: 'https://www.github.com/vgantchev.png.webp',
     name: 'valery',
     title: 'founder & runtime at Basilisk & HydraDX',
     links: [
@@ -77,7 +77,7 @@ const members = [
 ]
 </script>
 
-![subwork_family](pics/subwork_family.png)
+![subwork_family](pics/subwork_family.png.webp)
 
 brogrammers
 ---

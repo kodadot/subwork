@@ -15,7 +15,7 @@ Feel free to contact us on [Telegram 🤙](./contact.md). We will try our best.
 Ethereum room
 ---
 
-![meeting_room_bled_subwork](pics/subwork_meetingroom_polkadot.png)
+![meeting_room_bled_subwork](pics/subwork_meetingroom_polkadot.png.webp)
 
 - 8-10 seats
 - external monitor 32" USB-C and HDMI
@@ -27,7 +27,7 @@ Ethereum room
 Rollup room
 ---
 
-![meeting_room_bled_subwork](pics/subwork_meetingroom_kusama.png)
+![meeting_room_bled_subwork](pics/subwork_meetingroom_kusama.png.webp)
 
 - 4-6 seats
 - external monitor 32" USB-C and HDMI

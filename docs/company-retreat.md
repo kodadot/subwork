@@ -1,6 +1,6 @@
 ## Company retreat for team building at Bled
 
-![bled_company_retreat](./pics/bled_company_retreat.png)
+![bled_company_retreat](./pics/bled_company_retreat.png.webp)
 
 Are you looking for **space for your company retreat** where you can set your team building for your remote-first company or brainstorm new ideas for your products? 
 We are your perfect place to be! 
@@ -18,7 +18,7 @@ Held retreats on Bled
 - [Oasis Network](https://twitter.com/OasisProtocol/status/1668298511295856640) - the Oasis team traveled from around the globe for our company retreat in Bled, Slovenia.
 - [MakerDAO](https://makerdao.com/en/)
 
-![bovec](./pics/bovec.png)
+![bovec](./pics/bovec.png.webp)
 
 Conference venues in Bled
 ---

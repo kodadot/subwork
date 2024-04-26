@@ -60,7 +60,7 @@ export default defineConfig({
     ],
     [
       'meta',
-      { property: 'og:image', content: 'https://subwork.xyz/subwork_header_jungle_logo.png'}
+      { property: 'og:image', content: 'https://subwork.xyz/subwork_header_jungle_logo.png.webp'}
     ],
     [
       'meta',

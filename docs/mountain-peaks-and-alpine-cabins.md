@@ -1,11 +1,11 @@
 Mountain peaks around Bled, Bovec and Kranjska Gora
 ---
 
-![triglav_national_park1](./pics/triglav_national_park1.png)
+![triglav_national_park1](./pics/triglav_national_park1.png.webp)
 
 As we are in Julian Alps, there are lot of popular hiking routes to explore various hidden scenic views on various elevated fields between peaks with beautiful lakes. We cherry picked list of most popular spots around. All together it's hike program **for more than one month**, even for great mountaineers.
 
-![triglav_national_park1](./pics/triglav_national_park2.png)
+![triglav_national_park1](./pics/triglav_national_park2.png.webp)
 
 Popular Mountain Peaks 
 ---
@@ -21,7 +21,7 @@ Popular Mountain Peaks
 - Ratitovec - 1666m
 
 
-![triglav_national_park1](./pics/triglav_national_park4.png)
+![triglav_national_park1](./pics/triglav_national_park4.png.webp)
 
 Mountain huts and Alpine pastures
 (planinske koče in planine)
@@ -39,4 +39,4 @@ Mountain huts and Alpine pastures
 - PLANINA KOFCE (1488 m)
 
 
-![triglav_national_park1](./pics/triglav_national_park3.png)
+![triglav_national_park1](./pics/triglav_national_park3.png.webp)
