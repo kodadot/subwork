@@ -22,7 +22,7 @@ head:
 
 # crypto coworking space in Bled, Slovenia <Badge type="warning" text="beta" />
 
-![lake bled](pics/subwork_hero.png.webp.webp)
+![lake bled](pics/subwork_hero.png.webp)
 
 > co-work space by Koda Builders **inviting web3 builders.**
 
@@ -39,7 +39,7 @@ head:
 - [📖 Learn more who we are](./who-we-are.md)
 
 
-![bled_straza](pics/bled_from_straza.png.webp.webp)
+![bled_straza](pics/bled_from_straza.png.webp)
 > view from hill Straza, which is 200m from SubWork
 
 🤔 why are we at Bled?
