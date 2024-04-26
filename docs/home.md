@@ -66,7 +66,7 @@ head:
 - coming to visit us?
   - [join our Telegram group](./contact.md)
 
-![rent_venue_bled_subwork](pics/subwork_venue.png.webp.webp)
+![rent_venue_bled_subwork](pics/subwork_venue.png.webp)
 > SubWork Spring '23, merchandise shop
 
 👔 conference capacities
@@ -81,7 +81,7 @@ head:
 - [Host local tech, crypto and AI meetups, technological and art events](./rent-subwork-venue-in-bled.md)
 - [We can help you with more prominent team retreats](./company-retreat.md)
 
-![subwork_hacker](./pics/subwork_hacker_zoom.png.webp.webp)
+![subwork_hacker](./pics/subwork_hacker_zoom.png.webp)
 
 
 🏞  surroundings
@@ -93,7 +93,7 @@ Are you curious about [how it looks around Bled?](./surroundings.md)
 
 - Have a peek at [sports activities](./sports-activities-around-bled.md) you can do around SubWork
 
-![lake_bohinj](pics/lake_bohinj_canoes.png.webp.webp)
+![lake_bohinj](pics/lake_bohinj_canoes.png.webp)
 > Canoes at Lake Bohinj
 
 🏛 museum
