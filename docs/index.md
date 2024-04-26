@@ -49,7 +49,7 @@ features:
 <br>
 <br>
 <p align="center">
-  <img src="/subwork_header_jungle_description.png.webp.webp" style="max-width:1150px;width:100%" />
+  <img src="/subwork_header_jungle_description.png.webp" style="max-width:1150px;width:100%" />
 </p>
 <br>
 <br>

@@ -34,7 +34,7 @@ Reach out to SubWork before your visit 🤙
 - [upcoming community meetups](https://www.meetup.com/subwork/)
 
 
-![subwork_minting](pics/subwork_geisha.png.webp.webp)
+![subwork_minting](pics/subwork_geisha.png.webp)
 > Contact us and book your stay.
 
 📍 Location
