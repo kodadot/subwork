@@ -71,6 +71,7 @@ Genesis Art d.o.o.
 Genesis Art, digitalizacija umetnosti, d.o.o.
 Ljubljanska cesta 4
 4260 Bled
+Slovenia, Europe
 Company No.: 9647287000
 VAT: SI72862980
 ```
