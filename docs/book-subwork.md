@@ -34,8 +34,10 @@ Once you've got the door code
 ---
 Staff usually shares a handful information about space. Just in case [you can review most of information you might need during your stay at SubWork](./first-time-in-subwork.md)
 
-Pay for daily stay
+Pay for stay
 ---
-In case you haven't paid at the site on the terminal, you can settle your payments for daily coworking afterwards.
+In case you haven't paid at the site on the terminal, you can settle your payments for coworking afterwards.
 
-[Settle daily coworking dues](https://book.stripe.com/4gw4ic9cye3pbYs145)
+- [Buy daily coworking pass](https://book.stripe.com/4gw4ic9cye3pbYs145)
+
+- [Buy week coworking pass](https://book.stripe.com/eVacOI74q5wTfaE003)
