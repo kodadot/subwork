@@ -39,5 +39,5 @@ Pay for stay
 In case you haven't paid at the site on the terminal, you can settle your payments for coworking afterwards.
 
 - [Buy daily coworking pass](https://book.stripe.com/4gw4ic9cye3pbYs145)
-
 - [Buy week coworking pass](https://book.stripe.com/eVacOI74q5wTfaE003)
+- [Buy month coworking pass](https://book.stripe.com/cN2cOI1K65wTe6AeUY)
