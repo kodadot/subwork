@@ -9,7 +9,8 @@ We are your perfect place to be!
 Testimonials from web3 companies who appreciated staying at SubWork
 ---
 - [Apillon](https://apillon.io/) - Slovenian web3 company bringing web2 experience for developers 
-- [KodaDot](https://kodadot.xyz) - Generative Art Marketplace and [number one dapp in Polkadot ecosystem by Github](https://github.com/topics/polkadot?o=desc&s=forks)
+- [Koda](https://kodadot.xyz) - Generative Art Marketplace and [number one dapp in Polkadot ecosystem by Github](https://github.com/topics/polkadot?o=desc&s=forks)
+- [Lastic](https://www.lastic.xyz/) - blockspace marketplace for data availibility solutions
 - [Basilisk](https://bsx.fi/) - Basilisk brings permissionless liquidity to Kusama.
 - [HydraDX](https://hydradx.io/) - An Ocean of Liquidity for Polkadot   
 

@@ -1,6 +1,6 @@
 # Family Members in SubWork
 
-![subwork_hacker](pics/subwork_hacker_zoom.png.webp)
+![subwork_hacker](pics/subwork_hacker_zoom.png)
 
 Current coworkers are among top class web3 startups and AI experimentators
 
@@ -21,9 +21,9 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: 'https://www.github.com/yangwao.png.webp',
+    avatar: 'https://www.github.com/yangwao.png',
     name: 'matej yangwao',
-    title: 'co-founder KodaDot',
+    title: 'co-founder Koda',
     links: [
       { icon: 'github', link: 'https://github.com/yangwao' },
       { icon: 'twitter', link: 'https://twitter.com/yangwao' },
@@ -31,34 +31,34 @@ const members = [
     ]
   },
   {
-    avatar: 'https://www.github.com/JustLuuuu.png.webp',  
-    name: 'Linda',
-    title: 'artists relationships at KodaDot',
+    avatar: 'https://www.github.com/JustLuuuu.png',  
+    name: 'Luuuu',
+    title: 'artists relationships at Koda',
     links: [
       { icon: 'github', link: 'https://github.com/JustLuuuu' },
       { icon: 'twitter', link: 'https://twitter.com/Just_Luuuu' }
     ]
   },
   {
-    avatar: 'https://www.github.com/vikiival.png.webp',
+    avatar: 'https://www.github.com/vikiival.png',
     name: 'viki val',
-    title: 'co-founder KodaDot',
+    title: 'co-founder Koda',
     links: [
       { icon: 'github', link: 'https://github.com/vikiival' },
       { icon: 'twitter', link: 'https://twitter.com/vikiival' }
     ]
   },
   {
-    avatar: 'https://www.github.com/poppyseeddev.png.webp',
+    avatar: 'https://www.github.com/poppyseeddev.png',
     name: 'aurora poppyseed',
-    title: 'founder rust courses & gpt projects',
+    title: 'founder of Lastic',
     links: [
       { icon: 'github', link: 'https://github.com/poppyseeddev' },
       { icon: 'twitter', link: 'https://twitter.com/poppyseeddev' }
     ]
   },
   {
-    avatar: 'https://www.github.com/vgantchev.png.webp',
+    avatar: 'https://www.github.com/vgantchev.png',
     name: 'valery',
     title: 'founder & runtime at Basilisk & HydraDX',
     links: [
@@ -77,7 +77,7 @@ const members = [
 ]
 </script>
 
-![subwork_family](pics/subwork_family.png.webp)
+![subwork_family](pics/subwork_family.png)
 
 brogrammers
 ---
