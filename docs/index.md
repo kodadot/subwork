@@ -25,23 +25,23 @@ hero:
 
 features:
   - icon: 🏔️
-    title: Slovenia, crypto friendly destination in Europe
-    details: It's home of Apillon, BlockAnalitica, Bitstamp, Ethereum LJ, DegenL3, GoCrypto PoS, Oasis and many more.
+    title: Slovenia, crypto-friendly destination in Europe
+    details: It's home to Apillon, BlockAnalitica, Bitstamp, Ethereum LJ, DegenL3, GoCrypto PoS, Oasis, and many more.
     link: /why-did-we-choose-bled
     linkText: why Slovenia?
   - icon: 🏞️
     title: superior weather all year long
-    details: beautiful cloudless winter, mild warm summer make SubWork the perfect destination for your long-term productive stay.
+    details: beautiful cloudless winter and mild warm summer make SubWork the perfect destination for your long-term productive stay.
     link: /home
     linkText: coworking space
   - icon: 🧘
     title: wellbeing-first
-    details: you wanted to focus on wellbeing and self-growth while staying sharp and focused on delivery? We are your choice!
+    details: you wanted to focus on well-being and self-growth while staying sharp and focused on delivery? We are your choice!
     link: /sports-activities-around-bled
     linkText: sport activities 
   - icon: ☀️
     title: optimal amount of sunshine hours
-    details: Annual amount of 2884 sunshine hours. Guarantee superior mood, motivation and processing power.
+    details: Annual amount of 2884 sunshine hours. Guarantee superior mood, motivation, and processing power.
     link: /why-did-we-choose-bled
     linkText: tell me more
 ---
