@@ -96,9 +96,9 @@ export default defineConfig({
       { text: 'SubWork', link: '/' },
       { text: 'coworking space', link: '/home' },
       { text: 'book', link: '/book-subwork' },
+      { text: 'contact', link: '/contact' },
       { text: 'farcaster', link: 'https://warpcast.com/~/channel/subwork' },
       { text: 'telegram', link: 'https://t.me/+VoZsr7MEds84ZjQ0' },
-      { text: 'leave us review', link: 'https://g.page/r/CWs7EEKFN9-zEBE/review' },
     ],
     sidebar: [
       {
