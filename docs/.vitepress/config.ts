@@ -102,7 +102,7 @@ export default defineConfig({
     ],
     sidebar: [
       {
-        text: 'web3 charter city',
+        text: 'charter city',
         items: [
           { text: 'contact', link: '/contact' },
           { text: 'why Bled', link: '/why-did-we-choose-bled' },

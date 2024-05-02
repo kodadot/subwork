@@ -16,8 +16,9 @@ Testimonials from web3 companies who appreciated staying at SubWork
 
 Held retreats on Bled
 ---
-- [Oasis Network](https://twitter.com/OasisProtocol/status/1668298511295856640) - the Oasis team traveled from around the globe for our company retreat in Bled, Slovenia.
+- [Celestia](https://celestia.org/)
 - [MakerDAO](https://makerdao.com/en/)
+- [Oasis Network](https://twitter.com/OasisProtocol/status/1668298511295856640) - the Oasis team traveled from around the globe for our company retreat in Bled, Slovenia.
 
 ![bovec](./pics/bovec.png.webp)
 
