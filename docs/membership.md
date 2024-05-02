@@ -74,7 +74,7 @@ payment options
 ---
 We accept payment by credit card in space, cryptocurrencies via partners, and wire transfers. 
 
-[📖 Learn how to pay for membership](./payment-options.md)
+[📖 Book membership in SubWork](./book-subwork.md)
 
 invoicing
 ---
