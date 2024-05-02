@@ -32,9 +32,9 @@ head:
 
 👨‍🏭 who we are?
 ---
--  We are **power builders with over 130 contributors** - [KodaDot - Generative Art Marketplace](https://twitter.com/kodadot)
+-  We are **power builders with over 130 contributors** - [Koda - Generative Art Marketplace](https://twitter.com/kodadot)
    - [**top1 dapp in Polkadot** by Github Metrics](https://github.com/topics/polkadot)
-- We always wanted to have **space in nature away from everything**, where others could come over to **re-charge and build their dream in peace** with like-minded athletic achievers.
+- We always wanted to have a space in nature away from everything, where others could come to recharge and build their dreams in peace with like-minded athletic achievers.
 - We have focused on **web3** teams**
 - [📖 Learn more who we are](./who-we-are.md)
 
@@ -46,8 +46,8 @@ head:
 ---
 
 - 🏃‍♂️ A morning workout in nature does wonders with your mind & body.
-- 🚴 Beautiful scenery outside of the capital city, which creates mind serenity.
-- 💨 Come to realise your achievement and fulfil your dream.
+- 🚴 Beautiful scenery outside of the capital city creates mind serenity.
+- 💨 Come to realize your achievement and fulfill your dream.
 -  ☀️ Bled has an average [annual amount of 2880 sunshine hours](https://weatherandclimate.co.uk/slovenia/lake-bled-4044834/),
    -  guaranteeing your daily mood even in winter
 - [📖 Learn why Bled is an amazing place for your productivity](./why-did-we-choose-bled.md)
@@ -72,7 +72,7 @@ head:
 👔 conference capacities
 ---
 
-- Do you plan to organise a more significant conference or meetup with your team? 
+- Do you plan to organize a more significant conference or meetup with your team? 
 - [We can help with that!](./company-retreat.md)
 
 🧘 Our capabilities
