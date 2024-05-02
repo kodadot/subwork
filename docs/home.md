@@ -33,9 +33,10 @@ head:
 👨‍🏭 who we are?
 ---
 -  We are **power builders with over 130 contributors** - [Koda - Generative Art Marketplace](https://twitter.com/kodadot)
+-  [BlockSpace builders for data availibility - Lastic](https://lastic.xyz)
    - [**top1 dapp in Polkadot** by Github Metrics](https://github.com/topics/polkadot)
 - We always wanted to have a space in nature away from everything, where others could come to recharge and build their dreams in peace with like-minded athletic achievers.
-- We have focused on **web3** teams**
+- We have focus on **web3** teams
 - [📖 Learn more who we are](./who-we-are.md)
 
 
@@ -58,11 +59,11 @@ head:
 ---
 
 - [who is daily inside SubWork?](./family-members-in-subwork.md)
-- daily amounts of coworkers in SubWork
+- amounts of coworkers in SubWork
   - 9 co-workers in December ‘22
-  - 11 co-workers in May ‘23
-  - 70 co-workers summer '23
-- daily guests coming from cities like _Zurich, Singapore, Berlin, Prague, Vienna, Zagreb, Copenhagen, Milan_ and many more
+  - 23 co-workers in May ‘23
+  - 90 co-workers summer '23
+- daily guests coming from cities like _Zurich, Singapore, Munich, Berlin, Prague, Vienna, Zagreb, Copenhagen, Milan_ and many more
 - coming to visit us?
   - [join our Telegram group](./contact.md)
 

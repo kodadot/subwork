@@ -1,5 +1,4 @@
-Who we are?
----
+# Who we are?
 
 ![subwork_grind](pics/subwork_grinder_ondra.png.webp)
 
