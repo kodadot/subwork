@@ -10,7 +10,8 @@ However, as operating business _we need to cover our investments, running costs 
 
 daypass
 ---
-- We are happy to give you a first tryout for the first review on Google Maps to let you explore if it's the fitting coworking you've been looking for.
+- 20€ / day
+- However, we are happy to give you a first day for the review on Google Maps, to let you explore if it's the fitting coworking place you've been looking for.
 - [Google Maps ⭐️ Review](https://g.page/r/CWs7EEKFN9-zEBE/review)
 
 ![subwork_hacker_stand](pics/subwork_hacker_stand.png.webp)
@@ -27,7 +28,6 @@ Are you coming to Slovenia to enjoy your stay for sports activity, and do you ne
 
 flex desk
 ---
-
 Are you living near, but at home, you are bored or have a lot of distractions from kids? We are your place to go.
 - You have guaranteed table
 - You'll get a temporary key
