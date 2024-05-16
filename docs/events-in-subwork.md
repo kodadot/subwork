@@ -2,10 +2,10 @@
 
 ![subwork_meetup](pics/subwork_meetup.png.webp)
 
-We've organized numerous events in SubWork and in feature we plan to do so. 
+We've organized numerous events in SubWork and in future we plan to do so. 
 
 
-From past events like [opening christmas party](https://www.meetup.com/subwork/events/289925251/), [Polkadot Bled mini conference](https://www.meetup.com/subwork/events/292274713/) or casual [Friday's Brunch at SubWork](https://www.meetup.com/subwork/events/290849358/), we plan to make end of summer L2 hackathon and shoot few events during summer as various hosts are coming to our space. Everything depends on availibility of speakers and their will.
+From past events like [opening christmas party](https://www.meetup.com/subwork/events/289925251/), [Polkadot Bled mini conference](https://www.meetup.com/subwork/events/292274713/) or casual [Friday's Brunch at SubWork](https://www.meetup.com/subwork/events/290849358/),[Farcaster Slovenia zero meetup](https://warpcast.com/yangwao/0x7134089f) and few private ones.
 
 ## Farcaster Meetup Slovenia
 
@@ -14,27 +14,19 @@ We've hosted on [Farcaster Slovenia zero meetup](https://warpcast.com/yangwao/0x
 ![farcaster_meetup_slovenia](pics/subwork_farcaster_meetup.webp)
 
 
-- [polkadotbled.xyz](https://polkadotbled.xyz)
-- L2 hackathon
+## Want to know when is next event at SubWork? 
 
-## Don't want to miss next event at SubWork? 
-
-[Let's subscribe to SubWoork meetup group](https://www.meetup.com/subwork/)
+- [Subscribe to SubWork meetup](https://www.meetup.com/subwork/)
+- [Join our Telegram](https://t.me/+VoZsr7MEds84ZjQ0)
 
 
 ![event_polkadot_miniconf](pics/event_polkadot_miniconf.png.webp)
 
-Meetups we plan to organize
+Do you want to organize meetup at SubWork?
 ---
-We have in line 20 speakers who would likely to come to SubWork and we just need to settle date with them. You can have [a peak on our planned meetups in SubWork](https://github.com/kodadot/subwork/issues?q=is%3Aopen+label%3Ameetup+sort%3Aupdated-desc) 
+We are more than open to offer you our event space and help bring people to your event. Best way to reach us it to [join out telegram and ask there](https://t.me/+VoZsr7MEds84ZjQ0)
 
 ![polkadot_miniconf](./pics/subwork_miniconf.png.webp)
-
-Do you want to organize event in SubWork?
----
-You are more than welcome organize event at our place. Feel free [create new issue on SubWork Github](https://github.com/kodadot/subwork/issues/new), ping us on telegram and we can label it meetup for you. 
-
-![breakfast_at_subwork](./pics/subwork_breakfast.jpg)
 
 
 Past meetups hosted in SubWork
@@ -42,3 +34,6 @@ Past meetups hosted in SubWork
 - [Xmas opening party](https://www.meetup.com/subwork/events/289925251/)
 - [Friday's Brunch at SubWork](https://www.meetup.com/subwork/events/290849358/)
 - [Polkadot Bled mini conference](https://www.meetup.com/subwork/events/292274713/)
+- [Farcaster Slovenia zero meetup](https://warpcast.com/yangwao/0x7134089f)
+
+![breakfast_at_subwork](./pics/subwork_breakfast.jpg)

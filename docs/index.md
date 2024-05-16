@@ -26,7 +26,7 @@ hero:
 features:
   - icon: 🏔️
     title: Slovenia, crypto-friendly destination in Europe
-    details: It's home to Apillon, BlockAnalitica, Bitstamp, Ethereum LJ, DegenL3, GoCrypto PoS, Oasis, and many more.
+    details: It's home to Apillon, BlockAnalitica, Bitstamp, Ethereum LJ, Iconomi, GoCrypto, NiceHash, Oasis and many more.
     link: /why-did-we-choose-bled
     linkText: why Slovenia?
   - icon: 🏞️

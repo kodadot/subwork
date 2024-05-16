@@ -29,21 +29,22 @@ head:
 - [Book SubWork](./book-subwork.md)
 - [Membership pricing](./membership.md)
 
-
-👨‍🏭 who we are?
+who builds at SubWork?
 ---
--  We are **power builders with over 130 contributors** - [Koda - Generative Art Marketplace](https://twitter.com/kodadot)
--  [BlockSpace builders for data availibility - Lastic](https://lastic.xyz)
-   - [**top1 dapp in Polkadot** by Github Metrics](https://github.com/topics/polkadot)
+- [Koda - Generative Art Marketplace](https://twitter.com/kodadot)
+   -  power builders with over 130 contributors in open source 
+   - [top1 dapp in Polkadot by Github Metrics](https://github.com/topics/polkadot)
+   - [best Generative Art Frame experience at Farcaster /koda](https://warpcast.com/~/channel/koda)
+- [Lastic - BlockSpace builders for data availability](https://lastic.xyz)
 - We always wanted to have a space in nature away from everything, where others could come to recharge and build their dreams in peace with like-minded athletic achievers.
-- We have focus on **web3** teams
+- We focus on **web3** teams
 - [📖 Learn more who we are](./who-we-are.md)
 
 
 ![bled_straza](pics/bled_from_straza.png.webp)
-> view from hill Straza, which is 200m from SubWork
+> view from hill Straza, 200m from SubWork
 
-🤔 why are we at Bled?
+why are we at Bled?
 ---
 
 - 🏃‍♂️ A morning workout in nature does wonders with your mind & body.
@@ -55,17 +56,16 @@ head:
 
 ![subwork_colddrip](pics/subwork_colddrip.jpg.webp)
 
-👩‍💻 who can I meet in space?
+who can I meet in space?
 ---
-
-- [who is daily inside SubWork?](./family-members-in-subwork.md)
-- amounts of coworkers in SubWork
-  - 9 co-workers in December ‘22
+- [who are family members at SubWork?](./family-members-in-subwork.md)
+- we've hosted over 200 high quality people in space for last two years
+- daily guests are coming from cities like _Zurich, Singapore, Munich, Frankfurt, Berlin, Prague, Vienna, Copenhagen, Milan_ and many more
+- amounts of coworkers in SubWork in the past
+  - nine co-workers in December ‘22
   - 23 co-workers in May ‘23
-  - 90 co-workers summer '23
-- daily guests coming from cities like _Zurich, Singapore, Munich, Berlin, Prague, Vienna, Zagreb, Copenhagen, Milan_ and many more
-- coming to visit us?
-  - [join our Telegram group](./contact.md)
+  - 110 co-workers summer & fall '23
+- come to visit us and [join our Telegram group](./contact.md)
 
 ![rent_venue_bled_subwork](pics/subwork_venue.png.webp)
 > SubWork Spring '23, merchandise shop
@@ -78,7 +78,7 @@ head:
 
 🧘 Our capabilities
 ---
-- We can comfortably accommodate 30 builders daily with comfortable seating
+- We can comfortably accommodate 30 builders with comfortable seating
 - [Host local tech, crypto and AI meetups, technological and art events](./rent-subwork-venue-in-bled.md)
 - [We can help you with more prominent team retreats](./company-retreat.md)
 
@@ -92,7 +92,7 @@ Are you curious about [how it looks around Bled?](./surroundings.md)
 🏋️ you are an athletic soul
 ---
 
-- Have a peek at [sports activities](./sports-activities-around-bled.md) you can do around SubWork
+Have a peek at [sports activities](./sports-activities-around-bled.md) you can do around SubWork
 
 ![lake_bohinj](pics/lake_bohinj_canoes.png.webp)
 > Canoes at Lake Bohinj
