@@ -36,4 +36,4 @@ Past meetups hosted in SubWork
 - [Polkadot Bled mini conference](https://www.meetup.com/subwork/events/292274713/)
 - [Farcaster Slovenia zero meetup](https://warpcast.com/yangwao/0x7134089f)
 
-![breakfast_at_subwork](./pics/subwork_breakfast.jpg)
+![breakfast_at_subwork](./pics/subwork_breakfast.jpg.webp)

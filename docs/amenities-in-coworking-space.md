@@ -15,8 +15,6 @@ type of areas we have in SubWork
 - all areas are accousticially insulated for your silent comfort
 - lounge areas for executive meetings
 
-![fix_desk_in_subwork](pics/subwork_flexdesk.jpeg)
-
 premium objects in space
 ---
 
@@ -29,15 +27,23 @@ premium objects in space
   - you need to see beautiful GPT output
   - red and green candles of meme coins
 
-### [specialty coffee equipment](./specialty-coffee-in-bled.md)
+![fix_desk_in_subwork](pics/subwork_flex_desk.jpg.webp)
+
+### specialty coffee equipment
   - [we have variety of specialty coffee equipment at SubWork](./specialty-coffee-in-bled.md) and if you are experienced home barista, you will love this place
 
-![subwork_colddrip](pics/subwork_colddrip.jpg)
+![subwork_colddrip](pics/subwork_colddrip.jpg.webp)
 > picture of good looking goatstory dripper in sunlight 
 
 
 ### standing desk
   - we don't like back-pain
+
+### fridge
+  - stuffed with all the best productivity drinks like club mate and beer to chill out
+ 
+![subwork_fridge](pics/subwork_fridge.jpg)
+
 
 ### **ultra-fast [optic fibre gigabit Internet](https://www.speedtest.net/result/14919299140)**
   - reliable internet connection and stable for your meeting calls
@@ -51,6 +57,8 @@ premium objects in space
   - [Razer Kiyo Pro w/ 1080p@60FPS and wide angle](https://www.razer.com/gb-en/streaming-cameras/razer-kiyo-pro)
   - ring lights for better light
 
+![subwork_podcast](pics/subwork_podcast.jpg.webp)
+
 ### **basic gym equipment for your morning workout**
   - We feel sporty everyday. To keep up your fast development pace, we will help you to build athletic mentality while staying at SubWork.
   - dumbbells - 2x5kg, 2x10kg & 2x15kg
@@ -60,12 +68,19 @@ premium objects in space
   - pull-up bar 
   - [detailed list of gym equipment in Bled, SubWork](./basic-gym-equipment-in-coworking-space-subwork.md)
 
-![subwork_rowing](pics/subwork_rowing.jpg)
+![subwork_rowing](pics/subwork_rower.jpg.webp)
 
 ### shower
   - are you feeling sporty and do you want finish your morning workout in SubWork? We've got shower in space for you!
   - shower thoughts before you enter into deep work focus window?
   
+![subwork_shower](pics/subwork_shower.jpg.webp)
+
+### bookshelf
+  - we have on spot amazing crypto bestseller shelfed for your read during time you want to take off from your screen
+
+![subwork_bookshelf](pics/subwork_bookshelf.jpg.webp) 
+
 ### community social events on regular basis
 
 - we are organizing events on infrequent basis
@@ -75,7 +90,7 @@ premium objects in space
 ![subwork_crypto_meetup](pics/subwork_meetup.png.webp)
 > lot of folks on our first polkadot mini-conf
 
-![subwork_breakfast](pics/subwork_breakfast.jpg)
+![subwork_breakfast](pics/subwork_breakfast.jpg.webp)
 
 > we had lot of public breakfast in past with local friends
 
@@ -115,7 +130,7 @@ premium objects in space
   - have closed seed-round and you need some chill?
 - tea and matcha
 
-![subwork_coldbrew](pics/subwork_coldbrew.jpg)
+![subwork_coldbrew](pics/subwork_coldbrew.jpg.webp)
 
 
 

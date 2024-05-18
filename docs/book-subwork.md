@@ -1,6 +1,6 @@
 # Remote Booking SubWork coworking space
 
-![Bled village from Straza Hill](./pics/bled_from_straza.png.webp)
+![Bled village from Straza Hill](pics/subwork_table.jpg.webp)
 > Pay a visit our beautiful coworking space SubWork in Julian Alps in Bled, Slovenia
 
 
@@ -37,9 +37,11 @@ Once you have made your deposit, head to our [Telegram Group](https://t.me/+VoZs
 ---
 Staff usually shares a handful information about space. Just in case [you can review most of information you might need during your stay at SubWork](./first-time-in-subwork.md)
 
+![dragon in corner](pics/subwork_corner_dragon.jpg.webp)
+
 Pay for stay
 ---
-In case you haven't paid at the site on the terminal or you have only virtual company card, you can settle your payments for coworking stay
+In case you haven't paid at the site on the terminal or you have only a virtual company card, you can settle your payments for a coworking stay
 
 - [Buy a daily coworking pass](https://book.stripe.com/5kA4ic0G23oL8Mg00b)
 - [Buy week coworking pass](https://book.stripe.com/8wMaGA88u6AXd2wbIS)

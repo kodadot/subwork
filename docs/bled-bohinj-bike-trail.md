@@ -13,4 +13,4 @@ Finish date
 ---
 - [Learn more from local municipality news](https://obcina.bohinj.si/objava/114703)
 
-![bled_bohinj_bike_trail](pics/bled_bohinj_bike_trail.jpg)
+![bled_bohinj_bike_trail](pics/bled_bohinj_bike_trail.jpg.webp)

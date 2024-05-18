@@ -6,7 +6,7 @@ We are happy to give you a first tryout [for review on Google Maps](https://g.pa
 
 However, as operating business _we need to cover our investments, running costs such as rent, and day-to-day resources_, like maintaining accessible and clean spaces for everyone.
 
-![meeting_subwork](pics/subwork_meeting.png.webp)
+![meeting_room_subwork](pics/subwork_meetingroom_rollup_closeup.jpg.webp)
 
 daypass
 ---
@@ -24,7 +24,7 @@ Are you coming to Slovenia to enjoy your stay for sports activity and do you nee
 - You can participate in regular breakfasts organized by members
 - 100€ / week
 
-![subwork_hacker_corner](pics/subwork_hacker_zoom.png.webp)
+![subwork_meeting_room_double](pics/subwork_meetingroom_double.jpg.webp)
 
 flex desk
 ---
@@ -34,7 +34,7 @@ Are you living near by, but at home, you are bored or have a lot of distractions
 - You can participate in regular breakfasts organized by members
 - 300€ / mo
 
-![subwork_flexdesk](pics/subwork_flexdesk.jpeg)
+![subwork_flexdesk](pics/subwork_flex_desk.jpg.webp)
 
 fix desk
 ---
@@ -44,7 +44,7 @@ fix desk
 - 24/7 access
 - 400€ / mo
 
-![subwork_fixdesk](pics/subwork_fixdesk.jpeg)
+![subwork_fixdesk](pics/subwork_fix_desk.jpg.webp)
 
 Coming as a group for team retreat?
 ---
@@ -58,7 +58,7 @@ meeting rooms
 In SubWork, we offer three private meeting rooms for your team work. With focus on collaboration and acoustic insulation.
 - [📖 Learn more about meeting rooms in SubWork](./book-meeting-room-bled.md)
 
-![subwork_meeting_room_collab](pics/subwork_meeting_collab.png.webp)
+![subwork_meeting_room_double](pics/subwork_meetingroom_double_diagonal.jpg.webp)
 
 rent venue for your event
 ---
@@ -73,6 +73,8 @@ rent venue for your event
 portfolio companies
 ---
 special discount for portfolio company from particular VCs. Ask at Telegram for more information. 
+
+![subwork_reading_sofa](pics/subwork_lounge_reading_sofa.jpg.webp)
 
 payment options
 ---

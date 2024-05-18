@@ -97,8 +97,6 @@ export default defineConfig({
       { text: 'coworking space', link: '/home' },
       { text: 'book', link: '/book-subwork' },
       { text: 'contact', link: '/contact' },
-      { text: 'farcaster', link: 'https://warpcast.com/~/channel/subwork' },
-      { text: 'telegram', link: 'https://t.me/+VoZsr7MEds84ZjQ0' },
     ],
     sidebar: [
       {
@@ -127,7 +125,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'amenities', link: '/amenities-in-coworking-space' },
-          { text: 'book coworking space', link: '/book-coworking-space-subwork'},
+          { text: 'book coworking space', link: '/book-subwork'},
           { text: 'company retreat', link: '/company-retreat' },
           { text: 'family members', link: '/family-members-in-subwork' },
           { text: 'meeting rooms', link: '/book-meeting-room-bled' },

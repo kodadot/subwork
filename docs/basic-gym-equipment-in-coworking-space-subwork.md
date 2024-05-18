@@ -1,6 +1,6 @@
-# Basic gym equipment in coworking Space SubWork
+# Gym equipment in SubWork
 
-![img](./pics/gym_kettlebell.png.webp)
+![img](./pics/subwork_gym_weights.jpg.webp)
 
 Why it's important for us to have gym at coworking space?
 ---

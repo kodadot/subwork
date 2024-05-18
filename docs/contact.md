@@ -22,9 +22,8 @@ head:
 
 # Contact SubWork before your first visit
 
-- Are you curious? Come to ask!
-- [**Telegram - SubWork Bled**](https://t.me/+VoZsr7MEds84ZjQ0) 
-  > join over 200 members in our group chat
+- _Are you curious?_ Come to ask question to our group [**Telegram - SubWork Bled**](https://t.me/+VoZsr7MEds84ZjQ0) 
+  > join over 200 members
 
 📥  Subscribe for updates
 ---
@@ -35,9 +34,8 @@ head:
    > over 400 people on X are subscribed to SubWork updates
 - [upcoming community meetups](https://www.meetup.com/subwork/)
 
-
-![subwork_minting](pics/subwork_geisha.png.webp)
-> Contact us and book your stay.
+![subwork_corner_bar](pics/subwork_corner_bar.jpg.webp)
+> come to enjoy view
 
 📍 Location
 ---

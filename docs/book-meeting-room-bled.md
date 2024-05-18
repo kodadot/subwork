@@ -1,5 +1,7 @@
 # Book Meeting room in Bled
 
+![subwork_meeting_room_double_north](pics/subwork_meetingroom_double_north.jpg.webp)
+
 In SubWork, we know that in remote work, you want a peaceful place to lead team standups, discuss ongoing tasks within your remote team with colleagues, or have essential business 1-1 calls with your partners in your startup. 
 
 No matter what kind of business you do on the Internet, we can help you deliver and make your call from our space a pleasant experience without struggle. In a calm environment, you can focus on your essentials to experience the peak of your productivity.
@@ -15,7 +17,7 @@ Feel free to contact us on [Telegram 🤙](./contact.md). We will try our best.
 Ethereum room
 ---
 
-![meeting_room_bled_subwork](pics/subwork_meetingroom_polkadot.png.webp)
+![meeting_room_bled](pics/subwork_meeting_room_ethereum.jpg.webp)
 
 - 8-10 seats
 - external monitor 32" USB-C and HDMI
@@ -27,7 +29,7 @@ Ethereum room
 Rollup room
 ---
 
-![meeting_room_bled_subwork](pics/subwork_meetingroom_kusama.png.webp)
+![meeting_room_rollup](pics/subwork_meetingroom_rollup.jpg.webp)
 
 - 4-6 seats
 - external monitor 32" USB-C and HDMI

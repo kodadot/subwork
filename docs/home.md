@@ -22,7 +22,7 @@ head:
 
 # crypto coworking space in Bled, Slovenia <Badge type="warning" text="beta" />
 
-![lake bled](pics/subwork_hero.png.webp)
+![lake bled](pics/subwork_family_table.jpg.webp)
 
 > co-work space by Koda Builders **inviting web3 builders.**
 
@@ -40,9 +40,7 @@ who builds at SubWork?
 - We focus on **web3** teams
 - [📖 Learn more who we are](./who-we-are.md)
 
-
-![bled_straza](pics/bled_from_straza.png.webp)
-> view from hill Straza, 200m from SubWork
+![subwork_coworkers_collab](pics/subwork_coworkers_collab.jpg.webp)
 
 why are we at Bled?
 ---
@@ -54,7 +52,8 @@ why are we at Bled?
    -  guaranteeing your daily mood even in winter
 - [📖 Learn why Bled is an amazing place for your productivity](./why-did-we-choose-bled.md)
 
-![subwork_colddrip](pics/subwork_colddrip.jpg.webp)
+![bled_straza](pics/bled_from_straza.png.webp)
+> view from hill Straza, 200m from SubWork
 
 who can I meet in space?
 ---
@@ -67,8 +66,9 @@ who can I meet in space?
   - 110 co-workers summer & fall '23
 - come to visit us and [join our Telegram group](./contact.md)
 
-![rent_venue_bled_subwork](pics/subwork_venue.png.webp)
-> SubWork Spring '23, merchandise shop
+
+![rent_venue_bled_subwork](./pics/subwork_berry_front.jpg.webp)
+> SubWork mascot, australian shephard, Berry
 
 👔 conference capacities
 ---
@@ -82,7 +82,7 @@ who can I meet in space?
 - [Host local tech, crypto and AI meetups, technological and art events](./rent-subwork-venue-in-bled.md)
 - [We can help you with more prominent team retreats](./company-retreat.md)
 
-![subwork_hacker](./pics/subwork_hacker_zoom.png.webp)
+![subwork_kitchen](pics/subwork_kitchen_bottom.jpg.webp)
 
 
 🏞  surroundings
@@ -108,3 +108,5 @@ Options for long-term stay 🏡
 ---
 - We can give you recommendations on where to look for a [long-term stay](/long-term-stay-in-bled.md)
 - Do you [want to do coliving?](./coliving-in-bled.md) Let's go!
+
+![subwork_hacker](./pics/subwork_hacker_zoom.png.webp)

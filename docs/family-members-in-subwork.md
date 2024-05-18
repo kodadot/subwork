@@ -1,19 +1,19 @@
 # Family Members in SubWork
 
-![subwork_hacker](pics/subwork_hacker_zoom.png)
+![subwork_flexdesk_coworker](pics/subwork_flexdesk_coworker.jpg.webp)
 
 Current coworkers are among top class web3 startups and AI experimentators
 
 companies
 ---
-- developer from [hydradx](https://hydradx.io/) and [basilisk](https://bsx.fi/)
-- founders of [kodaDot - most popular open source nft marketplace](https://kodadot.xyz)
+- founders of [koda - generative art on farcaster](https://kodadot.xyz)
   - [yangwao](https://twitter.com/yangwao)
   - [vikiival](https://twitter.com/vikiival)
-- [poppyseedDev](https://twitter.com/poppyseeddev) doing her Rust courses, recently got accepted to Polkadot Blockchain Academy at Berkley, US
+- [poppyseedDev](https://twitter.com/poppyseeddev) doing her Rust courses, recently got accepted to Polkadot Blockchain Academy at Berkley, US, working on [lastic.xyz](https://lastic.xyz)
+- developer from [hydradx](https://hydradx.io/) and [basilisk](https://bsx.fi/)
 - various fund managers
-- hotdesking clients among local family office
-- regional and neighbourhood corporate members
+- hot desking clients among local family office
+- slovenian corporate members
 
 
 <script setup>
@@ -77,7 +77,7 @@ const members = [
 ]
 </script>
 
-![subwork_family](pics/subwork_family.png)
+![subwork_family](pics/subwork_family.png.webp)
 
 brogrammers
 ---

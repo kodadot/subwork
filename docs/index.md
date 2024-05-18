@@ -10,14 +10,14 @@ hero:
     alt: SubWork web3 jungle
   actions:
     - theme: alt
-      text: community events
+      text: community
       link: /events-in-subwork
-    - theme: alt
-      text: farcaster
-      link: https://warpcast.com/~/channel/subwork
     - theme: alt
       text: mountain peaks
       link: /mountain-peaks-and-alpine-cabins
+    - theme: alt
+      text: farcaster
+      link: https://warpcast.com/~/channel/subwork
     - theme: brand
       text: telegram
       link: https://t.me/+-fURMbVHvB0wNTdk 
