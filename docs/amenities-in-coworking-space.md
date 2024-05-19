@@ -42,7 +42,7 @@ premium objects in space
 ### fridge
   - stuffed with all the best productivity drinks like club mate and beer to chill out
  
-![subwork_fridge](pics/subwork_fridge.jpg)
+![subwork_fridge](pics/subwork_fridge.jpg.webp)
 
 
 ### **ultra-fast [optic fibre gigabit Internet](https://www.speedtest.net/result/14919299140)**
