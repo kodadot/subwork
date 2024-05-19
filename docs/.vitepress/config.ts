@@ -100,9 +100,20 @@ export default defineConfig({
     ],
     sidebar: [
       {
-        text: 'charter city',
+        text: 'coworking space',
         items: [
+          { text: 'amenities', link: '/amenities-in-coworking-space' },
+          { text: 'book coworking space', link: '/book-subwork'},
+          { text: 'company retreat', link: '/company-retreat' },
           { text: 'contact', link: '/contact' },
+          { text: 'family members', link: '/family-members-in-subwork' },
+          { text: 'meeting rooms', link: '/book-meeting-room-bled' },
+          { text: 'membership', link: '/membership' },
+        ]
+      },
+      {
+        text: 'concept',
+        items: [
           { text: 'why Bled', link: '/why-did-we-choose-bled' },
           { text: 'who we are', link: '/who-we-are' },
           { text: 'building up space', link: '/building-up-space' },
@@ -118,18 +129,6 @@ export default defineConfig({
           { text: 'standup paddle & canoe', link: '/rent-standup-paddle-in-bled-bohinj' },
           { text: 'sport activities', link: '/sports-activities-around-bled' },
           { text: 'surroundings', link: '/surroundings' }
-        ]
-      },
-      {
-        text: 'coworkers',
-        collapsed: true,
-        items: [
-          { text: 'amenities', link: '/amenities-in-coworking-space' },
-          { text: 'book coworking space', link: '/book-subwork'},
-          { text: 'company retreat', link: '/company-retreat' },
-          { text: 'family members', link: '/family-members-in-subwork' },
-          { text: 'meeting rooms', link: '/book-meeting-room-bled' },
-          { text: 'membership', link: '/membership' },
         ]
       },
       {
@@ -152,7 +151,7 @@ export default defineConfig({
         ]
       },
       {
-        text: 'working in SubWork',
+        text: 'members',
         collapsed: true,
         items: [
           { text: 'first time in Subwork', link: '/first-time-in-subwork' },

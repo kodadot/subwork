@@ -16,8 +16,8 @@ hero:
       text: mountain peaks
       link: /mountain-peaks-and-alpine-cabins
     - theme: alt
-      text: farcaster
-      link: https://warpcast.com/~/channel/subwork
+      text: book
+      link: /book-subwork
     - theme: brand
       text: telegram
       link: https://t.me/+-fURMbVHvB0wNTdk 
