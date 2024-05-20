@@ -71,6 +71,10 @@ special discount for portfolio company from particular VCs. Ask at Telegram for 
 
 ![subwork_reading_sofa](pics/subwork_lounge_reading_sofa.jpg.webp)
 
+slovenian startup scene
+---
+we are offering limited 30% discount on memberships for slovenians, who are part of local startup scene
+
 payment options
 ---
 We accept payment by credit card in space, cryptocurrencies via partners, and wire transfers. 

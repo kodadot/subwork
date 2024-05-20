@@ -16,9 +16,6 @@ Feel free to contact us on [Telegram 🤙](./contact.md). We will try our best.
 
 Ethereum room
 ---
-
-![meeting_room_bled](pics/subwork_meeting_room_ethereum.jpg.webp)
-
 - 8-10 seats
 - external monitor 32" USB-C and HDMI
 - acoustically insulated with panels and beautiful carpet
@@ -26,17 +23,19 @@ Ethereum room
 - 80" telly for your brainstorming sessions equipped with ChromeCast<Badge type="tip" text="soonTM" />
 - 50€/h
 
+![meeting_room_bled](pics/subwork_meeting_room_ethereum.jpg.webp)
+
+
 Rollup room
 ---
-
-![meeting_room_rollup](pics/subwork_meetingroom_rollup.jpg.webp)
-
 - 4-6 seats
 - external monitor 32" USB-C and HDMI
 - acoustically insulated with panels and beautiful carpet
 - podcasting equipment with high-performance gaming microphone for crispr sound for meetings
 - ring light for perfect light for your YouTube/TikTok video recordings
 - 50€/h
+
+![meeting_room_rollup](pics/subwork_meetingroom_rollup.jpg.webp)
 
 solo chain - private calling booth
 ---
@@ -46,3 +45,5 @@ solo chain - private calling booth
 - high privacy
 - external monitor 32" usb-c and HDMI<Badge type="tip" text="soonTM" />
 - good for focusing and close collaboration on startups
+
+![meeting_room_rollup_bottom](pics/subwork_meetingroom_rollup_bottom.jpg.webp)

@@ -9,7 +9,7 @@ Are you interested in using space, yet none of our staff is on site?
 Follow the steps below, and you will receive a code to unlock our coworking space.
 We will create your temporary access remotely. Mind this needs to be done a bit ahead. 
 **We recommend book at least 24-48 hours.**
-Sometimes, we can respond in under six hours.
+Sometimes, we can respond under six hours.
 
 Availability for remote booking
 ---
