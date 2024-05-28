@@ -100,7 +100,7 @@ export default defineConfig({
     ],
     sidebar: [
       {
-        text: 'coworking space',
+        text: 'coworking space at Bled',
         items: [
           { text: 'amenities', link: '/amenities-in-coworking-space' },
           { text: 'book coworking space', link: '/book-subwork'},
@@ -174,7 +174,14 @@ export default defineConfig({
           { text: 'triathlon', link: '/training-for-triathlon' },
           { text: 'writings', link: '/writings-about-subwork' },
         ]
-      }
+      },
+      {
+        text: 'SubWork - Ljubljana',
+        collapsed: true,
+        items: [
+          { text: 'Metalka', link: '/subwork-metalka' },
+        ]
+      },
     ],
     socialLinks: [
       { icon: {
