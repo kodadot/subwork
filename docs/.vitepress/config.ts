@@ -173,6 +173,7 @@ export default defineConfig({
           { text: 'specialty coffee gear', link: '/specialty-coffee-in-bled'},
           { text: 'triathlon', link: '/training-for-triathlon' },
           { text: 'writings', link: '/writings-about-subwork' },
+          { text: 'zuzalu bled', link: '/zuzalu-bled' },
         ]
       },
       {
