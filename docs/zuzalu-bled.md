@@ -58,3 +58,4 @@ Ref
 - [SubWork Fellowship](./subwork-fellowship.md)
 - [Zuitzerland/ZuLead/Davoz](https://www.daovoz.org/)
 - [EdgeEsmeralda](https://www.edgeesmeralda.com)
+- [Una Wang, Isla Munro Hochmayr - Living in the age of crypto tribalism: learning from Zuzalu](https://www.youtube.com/watch?v=uKnYsPfV9Co)
