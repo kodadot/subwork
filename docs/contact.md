@@ -48,6 +48,8 @@ head:
 ---
 Have you been to our place recently? We would love to have your five-star review! Please **share your review** to let others know about this fantastic coworking in nature.
 
+![google_review_qr_code](./pics/google_review_qr.png)
+
 - [Five-star review on Google Maps](https://g.page/r/CWs7EEKFN9-zEBM/review)
 - [Coworker Review](https://www.coworker.com/slovenia/bled/subwork)
 - [CoworkBooking Review](https://www.coworkbooking.com/europe/slovenia/subwork)
