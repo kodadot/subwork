@@ -1,17 +1,19 @@
-# Zuzalu Bled aka ZuBled
+# ZuBled
+#### magical stay in Julian Alps
 
 ![bled bird view](./pics/bled_company_retreat.png.webp)
 
-We've tapped in Julian Alps with SubWork in 4/22 to demonstrate possibility of pop-up community to exists wrapped around aligned values, middle of nowhere.
+We've tapped in Julian Alps with SubWork in 4/22 to demonstrate possibility of long-term pop-up community to exists wrapped around aligned values, middle of nowhere. 
 
 After two years, we would like to **celebrate significant milestone as culmination of hosting over 200 high quality inviduals.** 
 
-We are toying with idea setting up 2 week long Zuzalu styled pop-up village in magical Julian Alps. Among expected tracks we are looking to have emphasis on **Longevity, Hard & Deep Tech and Network States**.
+We are toying with idea setting up 2-4 week long Zuzalu themed pop-up village in magical Julian Alps. Among expected tracks we are looking to have emphasis on **Longevity, Hard & Deep Tech and Network States**.
 
 Dates
 ---
-- We are eyeballing end of September and begging of October. 
-- Why those dates? Most of accomodation would be relaxed as Bled is small vilalge of 5k citizens which transforms into small capital with over 1M bookings over year, mostly during summer. Lot of families are incentivized enjoy tranquil nature and surroudings. 
+- We are eyeballing range mid of September 2024 - right after [Zuitzerland](https://www.zuzalu.city/dashboard/eventview/about?event_space_id=58465703-768b-4138-92d5-1453416a901e) till mid October in 2024
+- Afterwards people can go to [ETHLisbon 18-20th October](https://x.com/ETHLisbon/status/1760379799673946553)
+- Why those dates? Most of accomodation would be relaxed as **Bled is small vilalge of 5k citizens which transforms into small capital with over 1M bookings over year**, mostly during summer. Lot of families are incentivized enjoy tranquil nature and surroudings. 
 - Optional dates could be early August, yet it's June writing this, it will take some significant amount to pull over dozens folks over to make plans.
 
 ![bled from straza hill](./pics/bled_from_straza.png.webp)
@@ -19,13 +21,17 @@ Dates
 Tracks
 ---
 - Longevity - Health & Bio - nutritional science, biohacking, practical & philosophical aspects of well-being
+- Decentralized Science - 
 - Real-world crypto - Zero-Knowledge tech, protocol research, practical real life application
 - Network States - new towns & cities, governance, collective intelligence, culture
-- Aritifical Intelligence - Compute & Geopolitics, value alignment, decentralized AI
+- Aritifical Intelligence & Cyber Defense - Compute & Geopolitics, value alignment, decentralized AI
+- Space Tech & Techno-Optimism - 
 
 Size
 ---
-- As we are aiming 2 week full of nature exploration, peer-knowledge sharing and in-person lectures. We aim for 150-200 folks which is not so small group to coordinate. We have [dozens available venues](https://www.bled.si/en/meetings/meeting-planning/venues/) in close proxmity of walking distance
+- As **we are aiming 2-4 week full of nature exploration, peer-knowledge sharing and in-person lectures**. 
+- We aim for 70 long-term stayers and approximately 100 short-term visitors (average 4 days stay) folks 
+- We have [dozens available venues](https://www.bled.si/en/meetings/meeting-planning/venues/) in walking proximity of SubWork less than <1 minute. 
 
 Brief agenda
 ---
@@ -41,7 +47,8 @@ Zuzalu shares elements of this vision. Its original instantiation was a 2-month 
 Who is organizing ZuBled?
 ---
 People aligned on values of network states, being brilliant, curious and kind.
-Short list of organizators is coming in. If you want to be part of org team, reach out our [Telegram channel](./contact.md)
+Short list of organizators is coming in. 
+If you want to be part of org team, reach out our [Telegram channel](./contact.md)
 
 
 Concept of aligned community living in Bled
@@ -56,6 +63,8 @@ Ref
 ---
 - [Concept](https://x.com/devonzuegel/status/1538723835947589632)
 - [SubWork Fellowship](./subwork-fellowship.md)
-- [Zuitzerland/ZuLead/Davoz](https://www.daovoz.org/)
+- [Zuitzerland/ZuLead/Davoz](https://www.daovoz.org/), [1](https://checker.gitcoin.co/public/project/show/zulead-by-daovoz)
+- [ZuVillage Georgia](https://zuvillage-georgia.framer.website/)
 - [EdgeEsmeralda](https://www.edgeesmeralda.com)
 - [Una Wang, Isla Munro Hochmayr - Living in the age of crypto tribalism: learning from Zuzalu](https://www.youtube.com/watch?v=uKnYsPfV9Co)
+- [Zuzalu Q1-Events Round](https://checker.gitcoin.co/public/round/XAvgyqJ2N/show) 
