@@ -3,18 +3,17 @@
 
 ![bled bird view](./pics/bled_company_retreat.png.webp)
 
-We've tapped in Julian Alps with SubWork in 4/22 to demonstrate possibility of long-term pop-up community to exists wrapped around aligned values, middle of nowhere. 
+We've tapped in Julian Alps with SubWork in April 2022 to demonstrate possibility of long-term pop-up community to exists wrapped around aligned values, middle of nowhere. 
 
 After two years, we would like to **celebrate significant milestone as culmination of hosting over 200 high quality inviduals.** 
 
-We are toying with idea setting up 2-4 week long Zuzalu themed pop-up village in magical Julian Alps. Among expected tracks we are looking to have emphasis on **Longevity, Hard & Deep Tech and Network States**.
+We are toying with idea to setup up 2-6 week long Zuzalu themed pop-up village in magical Julian Alps. Among expected tracks we are looking to have emphasis on **Longevity, Hard & Deep Tech and Network States**.
 
 Dates
 ---
-- We are eyeballing range mid of September 2024 - right after [Zuitzerland](https://www.zuzalu.city/dashboard/eventview/about?event_space_id=58465703-768b-4138-92d5-1453416a901e) till mid October in 2024
-- Afterwards people can go to [ETHLisbon 18-20th October](https://x.com/ETHLisbon/status/1760379799673946553)
-- Why those dates? Most of accomodation would be relaxed as **Bled is small vilalge of 5k citizens which transforms into small capital with over 1M bookings over year**, mostly during summer. Lot of families are incentivized enjoy tranquil nature and surroudings. 
-- Optional dates could be early August, yet it's June writing this, it will take some significant amount to pull over dozens folks over to make plans.
+- We are eyeballing range mid of September 2024 - mid of October 2024
+- Right between [Zuitzerland](https://www.zuzalu.city/dashboard/eventview/about?event_space_id=58465703-768b-4138-92d5-1453416a901e) and [ETHLisbon 18-20th October](https://x.com/ETHLisbon/status/1760379799673946553)
+- Why those dates? Most of accomodation would be relaxed off-seasson as **Bled is small village of 8k citizens which transforms into small capital with over [1M bookings over year](https://www.bled.si/en/information/business-pages/statistics/)**, mostly during summer. Lot of families are incentivized enjoy tranquil nature and surroudings. 
 
 ![bled from straza hill](./pics/bled_from_straza.png.webp)
 
@@ -29,9 +28,16 @@ Tracks
 
 Size
 ---
-- As **we are aiming 2-4 week full of nature exploration, peer-knowledge sharing and in-person lectures**. 
-- We aim for 70 long-term stayers and approximately 100 short-term visitors (average 4 days stay) folks 
+- As **we are aiming 2-6 week full of nature exploration, peer-knowledge sharing and in-person lectures**. 
+- We aim for 70 long-term stayers and approximately 100 short-term visitors with an average 4 days stay participants
 - We have [dozens available venues](https://www.bled.si/en/meetings/meeting-planning/venues/) in walking proximity of SubWork less than <1 minute. 
+
+Venues
+---
+- SubWork - primary shilling point, can comfortably host 70 folks at once
+- Open air rooftop near SubWork - 100+
+- Coffeeshop Apropo next to SubWork
+- Schedule depended - Lovec panorama room (70+70) and Kompass conference room (90+)
 
 Brief agenda
 ---
@@ -46,10 +52,33 @@ Zuzalu shares elements of this vision. Its original instantiation was a 2-month 
 
 Who is organizing ZuBled?
 ---
-People aligned on values of network states, being brilliant, curious and kind.
-Short list of organizators is coming in. 
-If you want to be part of org team, reach out our [Telegram channel](./contact.md)
+Core organizators include, but not exclusive 
+- [SubWork](https://warpcast.com/~/channel/subwork)
+- [yangwao](https://t.me/yangwao), [FarCaster](https://warpcast.com/yangwao), [X](https://twitter.com/yangwao)
+- [damsky](https://t.me/damskyftw), [FarCaster](https://warpcast.com/damsky), [X](https://x.com/damskyftw)
+- we are looking for volunteers willing to help and gain experience
+- people aligned on values of network states, being brilliant, curious and kind.
+- do you want to be part of organizators team? Reach out our [**SubWork reception group**](https://t.me/+VoZsr7MEds84ZjQ0)
 
+Want to be part of ZuBled?
+---
+You are always welcome to join our [**SubWork reception group**](https://t.me/+VoZsr7MEds84ZjQ0) and ask curious questions you might have ahead. 
+
+Tickets
+---
+We are trying establish price per ticket as we would like comfortable cover running costs of facilities and spread equally. 
+
+Want to organize your track?
+---
+We are generally want to help you setup your own track up and running with on-site help of volunteers
+
+Sponsors
+---
+We are open for sponsorships
+
+Internet on site
+---
+We are backed by 1Gbit fiber (expandable for 2Gbit) with Ubiquiti coverage with optional rooftop coverage and back-up 5G LTE. Few operators in Slovenia offers 150G data plan for 15e.
 
 Concept of aligned community living in Bled
 ---
