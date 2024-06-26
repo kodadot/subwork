@@ -14,13 +14,15 @@ We can guarantee flawless calls with our high-quality, high-speed optical gigabi
 
 Feel free to contact us on [Telegram 🤙](./contact.md). We will try our best.
 
+![subwork_swarm_meetup](./pics/subwork_swarm_meetup.jpg)
+
 Ethereum room
 ---
 - 8-10 seats
 - external monitor 32" USB-C and HDMI
 - acoustically insulated with panels and beautiful carpet
 - high-performance studio microphone
-- 80" telly for your brainstorming sessions equipped with ChromeCast<Badge type="tip" text="soonTM" />
+- 75" telly for your brainstorming sessions equipped with ChromeCast
 - 50€/h
 
 ![meeting_room_bled](pics/subwork_meeting_room_ethereum.jpg.webp)
