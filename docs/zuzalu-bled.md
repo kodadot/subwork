@@ -80,6 +80,14 @@ Internet on site
 ---
 We are backed by 1Gbit fiber (expandable for 2Gbit) with Ubiquiti coverage with optional rooftop coverage and back-up 5G LTE. Few operators in Slovenia offers 150G data plan for 15e.
 
+Experiments
+---
+- Objectively measure individual reaction to various types of nutrition with GCM 
+- Cerebrolysin - subjective cognitive testing
+- Triathlon - Various runs, enhancing personal endurance, like [JAT LAKE BLED](https://trailrun.si/en/80km-en/)
+- Sleep testing - peer group to measure quality of sleep, impacts, improvements and sharing learnings
+- Daily cold plunge - at Lake there is highlikely chance assembly group of 10-15 who would be steadily taking lead to organize morning cold plunges. There is option do it at beautiful alpine river. 
+
 Concept of aligned community living in Bled
 ---
 > Imagine living in a small town within walking distance of friends, family, and people you admire.
