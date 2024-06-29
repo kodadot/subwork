@@ -38,6 +38,9 @@ Venues
 - Open air rooftop near SubWork - 100+
 - Coffeeshop Apropo next to SubWork
 - Schedule depended - Lovec panorama room (70+70) and Kompass conference room (90+)
+- [More venues available at Bled](https://www.bled.si/en/meetings/meeting-planning/venues/)
+
+![hotel_kompass_terrace](./pics/bled/Hotel-Kompas-Jost_Gantar-6_2.jpg)
 
 Brief agenda
 ---
@@ -74,11 +77,11 @@ We are generally want to help you setup your own track up and running with on-si
 
 Sponsors
 ---
-We are open for sponsorships
+We are open for sponsorships.
 
 Internet on site
 ---
-We are backed by 1Gbit fiber (expandable for 2Gbit) with Ubiquiti coverage with optional rooftop coverage and back-up 5G LTE. Few operators in Slovenia offers 150G data plan for 15e.
+We are backed by 1Gbit fiber (expandable for 2Gbit) with professional Ubiquiti coverage with optional rooftop coverage and back-up 5G LTE. Operators in Slovenia offers 150G data plan for 15e. 
 
 Experiments
 ---
@@ -87,6 +90,9 @@ Experiments
 - Triathlon - Various runs, enhancing personal endurance, like [JAT LAKE BLED](https://trailrun.si/en/80km-en/)
 - Sleep testing - peer group to measure quality of sleep, impacts, improvements and sharing learnings
 - Daily cold plunge - at Lake there is highlikely chance assembly group of 10-15 who would be steadily taking lead to organize morning cold plunges. There is option do it at beautiful alpine river. 
+- Active co-op with [BiohackerDAO](https://biohackerdao.com/)
+
+![blejsko_poletje](./pics/bled/blejsko-poletje.jpg)
 
 Concept of aligned community living in Bled
 ---
@@ -105,3 +111,8 @@ Ref
 - [EdgeEsmeralda](https://www.edgeesmeralda.com)
 - [Una Wang, Isla Munro Hochmayr - Living in the age of crypto tribalism: learning from Zuzalu](https://www.youtube.com/watch?v=uKnYsPfV9Co)
 - [Zuzalu Q1-Events Round](https://checker.gitcoin.co/public/round/XAvgyqJ2N/show) 
+- [Local events supported by Bled Municipality](https://www.bled.si/en/events/?start=01.09.2024&end=31.10.2024&lng=eng)
+- [X-waters](https://x-waters.com/events/slovenia/?lang=en)
+- [Attractions around Bled](https://www.bled.si/en/what-to-see-do/attractions/)
+- [Activities can be done at Bled](https://www.bled.si/en/what-to-see-do/activities/)
+- [Wellness at Bled](https://www.bled.si/en/what-to-see-do/wellness/)
