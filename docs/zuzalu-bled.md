@@ -67,6 +67,17 @@ Want to be part of ZuBled?
 ---
 You are always welcome to join our [**SubWork reception group**](https://t.me/+VoZsr7MEds84ZjQ0) and ask curious questions you might have ahead. 
 
+Experiments
+---
+- Objectively measure individual reaction to various types of nutrition with GCM 
+- Cerebrolysin - subjective cognitive testing
+- Triathlon - Various runs, enhancing personal endurance, like [JAT LAKE BLED](https://trailrun.si/en/80km-en/)
+- Sleep testing - peer group to measure quality of sleep, impacts, improvements and sharing learnings
+- Daily cold plunge - at Lake there is highlikely chance assembly group of 10-15 who would be steadily taking lead to organize morning cold plunges. There is option do it at beautiful alpine river. 
+- Active co-op with [BiohackerDAO](https://biohackerdao.com/)
+
+![blejsko_poletje](./pics/bled/blejsko-poletje.jpg)
+
 Tickets
 ---
 We are trying establish price per ticket as we would like comfortable cover running costs of facilities and spread equally. 
@@ -83,16 +94,6 @@ Internet on site
 ---
 We are backed by 1Gbit fiber (expandable for 2Gbit) with professional Ubiquiti coverage with optional rooftop coverage and back-up 5G LTE. Operators in Slovenia offers 150G data plan for 15e. 
 
-Experiments
----
-- Objectively measure individual reaction to various types of nutrition with GCM 
-- Cerebrolysin - subjective cognitive testing
-- Triathlon - Various runs, enhancing personal endurance, like [JAT LAKE BLED](https://trailrun.si/en/80km-en/)
-- Sleep testing - peer group to measure quality of sleep, impacts, improvements and sharing learnings
-- Daily cold plunge - at Lake there is highlikely chance assembly group of 10-15 who would be steadily taking lead to organize morning cold plunges. There is option do it at beautiful alpine river. 
-- Active co-op with [BiohackerDAO](https://biohackerdao.com/)
-
-![blejsko_poletje](./pics/bled/blejsko-poletje.jpg)
 
 Concept of aligned community living in Bled
 ---
