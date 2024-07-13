@@ -5,7 +5,7 @@
 
 We've tapped in Julian Alps with SubWork in April 2022 to demonstrate possibility of long-term pop-up community to exists wrapped around aligned values, middle of nowhere. 
 
-After two years, we would like to **celebrate significant milestone as culmination of hosting over 200 high quality inviduals.** 
+After two years, we would like to **celebrate significant milestone as culmination of hosting over 250 high quality inviduals.** 
 
 We are toying with idea to setup up 2-6 week long Zuzalu themed pop-up village in magical Julian Alps. Among expected tracks we are looking to have emphasis on **Longevity, Hard & Deep Tech and Network States**.
 

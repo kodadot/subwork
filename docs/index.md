@@ -10,17 +10,17 @@ hero:
     alt: SubWork web3 jungle
   actions:
     - theme: alt
+      text: book
+      link: /book-subwork
+    - theme: alt
       text: community
       link: /events-in-subwork
     - theme: alt
       text: mountain peaks
       link: /mountain-peaks-and-alpine-cabins
-    - theme: alt
-      text: book
-      link: /book-subwork
     - theme: brand
-      text: telegram
-      link: https://t.me/+-fURMbVHvB0wNTdk 
+      text: ZuBled
+      link: /zuzalu-bled
 
 
 features:
