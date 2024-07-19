@@ -6,21 +6,23 @@ Are you looking for **space for your company retreat** where you can set your te
 We are your perfect place to be! 
 **[Reach out us on Telegram](./contact.md)** and we can discuss details in DMs!
 
-Testimonials from web3 companies who appreciated staying at SubWork
+Testimonials from companies whose appreciated moments at SubWork
 ---
 - [Apillon](https://apillon.io/) - Slovenian web3 company bringing web2 experience for developers 
 - [Koda](https://koda.art) - Generative Art Marketplace and [number one dapp in Polkadot ecosystem by Github](https://github.com/topics/polkadot?o=desc&s=forks)
 - [Lastic](https://www.lastic.xyz/) - blockspace marketplace for data availibility solutions
 - [Basilisk](https://bsx.fi/) - Basilisk brings permissionless liquidity to Kusama.
 - [HydraDX](https://hydradx.io/) - An Ocean of Liquidity for Polkadot   
+- [Swarm](https://www.ethswarm.org/) - Hosted po SwarmConference team moments
+- [Celestia](https://celestia.org/)
 
 Held retreats on Bled
 ---
-- [Celestia](https://celestia.org/)
 - [MakerDAO](https://makerdao.com/en/)
 - [Oasis Network](https://twitter.com/OasisProtocol/status/1668298511295856640) 
   > the Oasis team traveled from around the globe for our company retreat in Bled, Slovenia.
-- [Swarm](https://www.ethswarm.org/)
+- [CalCom](https://www.linkedin.com/posts/cal-com_as-a-remote-and-fully-async-company-we-activity-7219994210949615618-9ILi/)
+- and probably many other cool companies we are not aware coming to Bled
 
 ![bovec](./pics/bovec.png.webp)
 
