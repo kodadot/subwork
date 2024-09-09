@@ -12,7 +12,7 @@ We are toying with idea to setup up 2-6 week long Zuzalu themed pop-up village i
 Dates
 ---
 - ~~We are eyeballing range mid of September 2024 - mid of October 2024~~
-- **We've bumped ZuBled dates to spring Q1'24** as we've got accepted to Balaji's Network School in Singapore
+- **We've bumped ZuBled dates to spring Q1'25** as we've got accepted to Balaji's Network School in Singapore
 - There are numerous pop-up cities being held [before and after DevCon](https://x.com/swapnilsparsh/status/1831819719705542868)
 - Two pop-ups happening in Europe, [BuildMonastery](https://www.buildermonastery.com/), [Â.CITY](https://www.xn--2ca.city/) 
 - Before [Zuitzerland](https://www.zuzalu.city/dashboard/eventview/about?event_space_id=58465703-768b-4138-92d5-1453416a901e) and [ETHLisbon 18-20th October](https://x.com/ETHLisbon/status/1760379799673946553)
