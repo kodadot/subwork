@@ -12,7 +12,8 @@ list of websites of local real-estate brokers
 - [re-max.si](https://www.re-max.si/)
 - [stoja-trade.si](https://www.stoja-trade.si/)  
   - agency can help you find something on demand, yet slow
-- [sloveniaestates.com](https://www.sloveniaestates.com/properties/view-all-properties/) 
+- [sloveniaestates.com](https://www.sloveniaestates.com/properties/view-all-properties/)
+- [atrium.si]([https://www.sloveniaestates.com/properties/view-all-properties/](https://www.atrium.si/oglasi/podravska_maribor/xnv9tKp3))
   - good, if you want to buy whole castle
 
 close villages around SubWork
